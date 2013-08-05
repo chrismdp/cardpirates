@@ -159,3 +159,8 @@ During the set up of the game, each player takes a card of their choice from the
 
 The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
 
+## Burying treasure
+
+When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then picked up by any player which sails to that square in future.
+
+You can use this to bury treasure to retrieve later, or leave useless cards as a decoy! This variant adds more strategy at the risk of making the game a bit more complex.
