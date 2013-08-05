@@ -15,6 +15,8 @@ The game is playable with **just one pack of playing cards and a token to repres
 
 Try it with anyone aged about 6 years and older - my 7 and 9 year olds love it.
 
+## [Read the rules](/rules)
+
 {% include social.html %}
 
 ## The back story

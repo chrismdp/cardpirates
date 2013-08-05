@@ -17,6 +17,7 @@ If you have any comments, queries or suggestions for improvements, please add th
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'cardpirates'; // required: replace example with your forum shortname
+    var disqus_url = 'http://cardpirates.com';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
