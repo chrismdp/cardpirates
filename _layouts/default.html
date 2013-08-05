@@ -11,9 +11,27 @@
 
         <!-- Custom CSS -->
         <link rel="stylesheet" href="/css/main.css">
+        <script>
+          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+              (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    </head>
-    <body>
+          ga('create', 'UA-431118-18', 'cardpirates.com');
+          ga('send', 'pageview');
+
+        </script>
+
+      </head>
+      <body>
+        <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+          }(document, 'script', 'facebook-jssdk'));</script>
 
         <div class="container">
           <div class="site">
@@ -21,17 +39,23 @@
               <h1 class="title"><a href="/">{{ site.name }}</a></h1>
               <a class="extra" href="/">home</a>
               <a class="extra" href="/rules">rules</a>
+              <a class="extra" href="/stories">your stories</a>
             </div>
+            <br/>
 
-                {{ content }}
+
+            {{ content }}
 
             <div class="footer">
               <div class="contact">
                 <p>
-                  Card Pirates &copy 2013 Chris Parsons. All rights reserved.<br />
+                  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="../assets/cc-license.png" /></a>
+                  <br/>
+                  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Card Pirates</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://chrismdp.com" property="cc:attributionName" rel="cc:attributionURL">Chris Parsons</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://cardpirates.com" rel="dct:source">http://cardpirates.com</a>.
                 </p>
-              </div>
-              <div class="contact">
+                <p>
+                  Ship icons by <a href='http://icons.mysitemyway.com/gallery/post/matte-white-square-icons-transport-travel/'>Icons etc.</a>
+                </p>
                 <p>
                   <a href="http://twitter.com/chrismdp/">twitter.com/chrismdp</a><br />
                 </p>
@@ -39,6 +63,5 @@
             </div>
           </div>
         </div> <!-- /container -->
-
-    </body>
-</html>
+      </body>
+    </html>

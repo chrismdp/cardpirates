@@ -1,33 +1,39 @@
 ---
 layout: default
-title: Rules
+title: "Card Pirates: Rules"
 ---
-
-# Rules
 
 {% include ad-skyscraper.html %}
 
-All you need is a standard deck of cards, and a makeshift counter of some sort for each player.
+# Rules
 
-## Setup
+*version 1.0.0*
 
-Find a space on the ground or a table. Take your pack of cards, remove the aces and place them to one side. For 2 player games deal 6 cards to each player, for 3 players deal four cards, and 4 players deal 3 cards.
+All you need is a standard deck of cards, and a makeshift counter of some sort for each player. Use a deck of cards with blue backs for added theme.
 
-Lay out the remaining cards face down in a 6 by 6 rectangle. This rectangle represents *the high seas*. There are four *islands* on the sea, represented at by the four Aces. Place each of these face up on each corner of the rectangle, one in from the edge, like this:
+# Setting up
 
-![setup]({{site.url}}/assets/setup.png)
+Find a space on the ground or a table. Take your pack of cards, remove the Aces and place them to one side.
 
-Place each player's counter on one island of the sea - this represents their *ship*. In two player games put the players on diagonally opposite islands.
+Lay out 36 cards face down in a 6 x 6 rectangle. This rectangle represents *the high seas*. There are four *islands* on the sea, represented at by the four Aces. Place each of these face up on each corner of the rectangle, one in from the edge, like this:
 
-## Aim
+![setup](../assets/setup.png)
+
+Place each player's counter on one island on the sea - this represents their *ship*. In two player games put the players on diagonally opposite islands.
+
+Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards.
+
+Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are new *first mates* you've recruited - they have a treasure map you can used to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward. The Aces represent *treasure*.
+
+# Aim
 
 The player who scores the most points in hand wins at the game end. Points are gained through recruiting first mates, meeting island governors and finding treasure.
 
-## Gameplay
+# Starting the game
 
-Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail* or *drift*.
+Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they have no crew cards.
 
-### Sail
+# Sailing
 
 To sail away from an island on the first turn, choose any crew card (number card) from your hand. Show the rest of the players that card and return it to your hand.
 
@@ -37,45 +43,93 @@ It costs 3 sailing points to sail to an adjacent square, and 5 points to sail di
 
 You may only change direction once during your turn, you cannot sail into the same square twice in the same turn and you cannot finish on the square you started on.
 
-#### Sailing on the sea
+**In subsequent turns, in order to sail from any sea square, place the chosen crew card face up on the square your ship is on before moving.**
 
-In subsequent turns, in order to sail from any sea square, place the chosen crew card face up on the square your ship is on before moving.
-
-#### Storms
-
-If you sail to a square without any card on it, you have sailed into a fearful storm: you must end your turn there and place a crew card face up to represent crew lost during the squall.
-
-#### "Heave to!"
+## "Heave to!"
 
 When coming to rest on a sea square, pick up any cards on that square and add them to your hand.
 
-If you choose to sail onto an island space, you must end your turn there. Pick up any cards underneath the ace (but not the ace itself.)
+If you choose to sail onto an island space, you must end your turn there. Pick up any cards underneath the face up card (but not the face up card itself.)
 
-Cards in a players hand have different uses. The number cards represent *crew* and can be used to sail the ship and to fight battles. The Jack and Queen cards are new *first mates* you've recruited - they have a treasure map you can used to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward. The aces represent *treasure*.
+If you have landed on another player ship, resolve the attack (see below. After this, your turn is over, and play passes to the left.
 
-If you have landed on another player ship, resolve combat. After this, your turn is over, and play passes to the left.
 
-#### Discovering treasure
+## Sailing example
 
-If, when landing on an island, you have a face card in your hand of the same suit as an ace on the island you have landed on, you may exchance the face card with the ace and place the ace in your hand. This represents digging for treasure if you use a Jack or Queen or receiving a governor's reward if you use a King.
+![movement](../assets/movement.png)
 
-No further exchanges are permitted at an island once the treasure has been discovered.
+*In this case the player has crew cards of 5 and 6 in his hand. They can choose to either use the 5 or 6 crew card to move directly north, or north east to the island, or use the 6 to move two squares east.*
 
-### Drifting
+![movement-chosen](../assets/movement-chosen.png)
+
+*The player chooses to move North East to the island, and uses their 5 crew card to do so. Because they have moved from a sea square, they place the card face up on the square they have moved from. The player then picks up any cards below the face up ace card - in this case a 10.*
+
+*When moving next turn, the player will only have to show the other players a crew card rather than place one, as they are now on an island square.*
+
+## Drifting
 
 If you have no crew cards, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
-## Combat
 
-To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but combat is not resolved. If you sail to a square with more than one ship, you choose which ship you attack.
+## Storms
 
-To attack, pick a crew card from your hand and place it face down in front of you. The defender does the same, and both cards are revealed together. The player with the highest card is a winner. If you don't have a card to place as a defender, you can choose not to place a card.
+As the game progresses, occasionally spaces will appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall.
 
-The cards used for combat are lost: they are placed face up on the island which matches their suits underneath the face up card on top. The winner then gets to select one card at random from the loser's hand. If there is a draw, first the attacker selects a card from the defenders hand and then the defender selects a card from the attackers hand (not including the card the attacker just drew).
+{% include ad-skyscraper.html %}
 
-## Game end
+# Discovering treasure and island politics
 
-The game ends when all treasure has been reclaimed (all aces are replaced by face cards.) As soon as the last treasure is found, all the hands are shown face up. The person with the highest scoring cards is the winner.
+If, when landing on an island, you have a face card in your hand *of the same suit* as an ace or higher face card on the island you have landed on, you may exchange the cards and place the higher card in your hand.
+
+You can only perform this exchange when first landing on the island, and you may not exchange a lower card for a higher one.
+
+These exchanges might represent the following plot lines:
+
+- *Queen/Jack replaces Ace:* Your first mate finds buried treasure using an old map. Take the ace card and add it to your hand.
+- *King replaces Ace:* In return for rescuing you from kidnappers, the Governor gives you a handsome reward.
+- *Jack replaces King:* The long lost son of the Governor has been found! You take the King card to represent the Governor's thanks and allegiance.
+- *Queen replaces King:* The Governor falls in love with the beautiful pirate maiden and agrees to marry her. You take the King card to represent the Governor's friendship and allegiance.
+- *Jack replaces Queen:* Tired of boring island life, the Governor's daughter runs away to join your pirate crew.
+
+Alternatively, you can have fun making up your own stories! Let us know if you come up with any good ones.
+
+## Searching for treasure example
+
+![treasure1](../assets/treasure1.png)
+
+*This ship has just moved onto the island. The player has a Queen card in his hand so is able to dig for buried treasure...*
+
+![treasure2](../assets/treasure2.png)
+
+*The player swaps the Ace card for the Queen and adds it to his hand.*
+
+# Attacking other ships
+
+To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved. If you sail to a square with more than one ship, you choose which ship you attack.
+
+To attack, pick a crew card from your hand and place it face down in front of you. The defender does the same, and both cards are revealed together. The player with the highest card is the winner.
+
+If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins.
+
+The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the face up card on top. The winner then gets to select one card at random from the loser's hand and places it in his own hand. If there is a draw, first the attacker selects a card from the defenders hand and then the defender selects a card from the attackers hand (not including the card the attacker just drew).
+
+## Attacking example
+
+![combat1](../assets/combat1.png)
+
+*In this example, the black ship uses a 6 crew card to move diagonally onto the same square as the white ship. Both players choose a card and place it face down in front of them.*
+
+![combat2](../assets/combat2.png)
+
+*The white player chooses a 6 and the black player chooses an 8, so the black ship is the winner. The black player chooses a card at random from the white player's remaining hand of 2, and luckily chooses the Ace: they have stolen the treasure from the white ship!*
+
+![combat3](../assets/combat3.png)
+
+*The crew cards used in the battle are lost as casualties and are sent to the nearest island, two squares due west. They will be recruited as fresh crew next time another ship lands on the island.*
+
+# Game end
+
+The game ends when all treasure has been reclaimed (all Aces are replaced by face cards.) As soon as the last treasure is found, all the hands are shown face up. The person with the highest scoring cards is the winner.
 
 The cards are worth the following points at game end:
 
@@ -85,8 +139,9 @@ The cards are worth the following points at game end:
 - Jack: 1
 - Crew cards: 0
 
-If there is a tie, the person with the most aces wins, followed by the most kings, etc.
+If there is a tie, the person with the most Aces wins, followed by the most Kings, etc.
 
-## Variant: Hidden cards
+# Variant: Hidden cards
 
-When placing cards to sail, and resolving combat, show the cards to the other players, but then place the crew cards face down instead of up on the board. This makes for a much tougher game on the memory.
+Whenever you place a crew card down on the sea or island, show the card to the other players, but place it face down rather than up. This makes for a much tougher game, more reliant on memory.
+
