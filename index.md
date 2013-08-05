@@ -10,7 +10,7 @@ title: Card Pirates
 
 **Card Pirates is a deep and thematic card game for 2 - 4 players.** Players take the role of a old fashioned pirate ship on the high seas, searching for treasure, avoiding storms, attacking other ships and attempting to win the favour of the island governors.
 
-It can be learned very quickly, and is great fun to play. You can win if you're lucky, but there's a lot of strategy too.
+It can be learned very quickly, and is great fun to play. You can win if you're lucky, but there's a lot of strategy too. It takes about 20 - 40 minutes to play.
 
 The game is playable with **just one pack of playing cards and a token to represent each player.** We started with lego bricks and have moved on to little plastic ships from another game.
 

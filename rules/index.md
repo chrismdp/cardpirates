@@ -24,7 +24,7 @@ Place each player's counter on one island on the sea - this represents their *sh
 
 Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards.
 
-Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are new *first mates* you've recruited - they have a treasure map you can used to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward. The Aces represent *treasure*.
+Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are new *first mates* you've recruited - they have a treasure map you can used to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Aces represent *treasure*.
 
 # Aim
 
@@ -42,9 +42,9 @@ This gives you as many *sailing points* to sail that turn as the number on the c
 
 It costs 3 sailing points to sail to an adjacent square, and 5 points to sail diagonally.
 
-You may only change direction once during your turn, you cannot sail into the same square twice in the same turn and you cannot finish on the square you started on.
+You cannot sail into the same square twice in the same turn, and you cannot finish on the square you started on.
 
-In subsequent turns, in order to sail from any sea or island square, place the chosen crew card face up on the square your ship is on before moving.
+In subsequent turns, in order to sail from any sea or island square, follow the same process: place the chosen crew card face up on the square your ship is on before moving, under any island card.
 
 ## "Heave to!"
 
@@ -56,7 +56,7 @@ If you have landed on another player ship, resolve the attack (see below. After 
 
 ## The '2' crew cards
 
-Note that the 2 cards don't give you enough movement points to move, and are therefore useless for sailing. These represent landlubbers and/or prisoners on your ship. You can use them in combat, or give them to another player when winning a battle.
+Note that the 2 cards don't give you enough movement points to move, and are therefore useless for sailing. These represent landlubbers or prisoners on your ship. You can use them in combat, or give them to another player when winning a battle.
 
 ## Sailing example
 
@@ -66,7 +66,7 @@ Note that the 2 cards don't give you enough movement points to move, and are the
 
 ![movement-chosen](../assets/movement-chosen.png)
 
-*The player chooses to move North East to the island, and uses their 5 crew card to do so. Because they have moved from a sea square, they place the card face up on the square they have moved from. The player then picks up any cards below the face up ace card - in this case a 10.*
+*The player chooses to move North East to the island, and uses their 5 crew card to do so. They place the card face up on the square they have moved from. The player then picks up any cards below the face up ace card - in this case a 10.*
 
 *When moving next turn, the player will only have to show the other players a crew card rather than place one, as they are now on an island square.*
 
@@ -76,7 +76,7 @@ If you have two cards or less, or you have no crew cards which allow sailing nor
 
 ## Storms
 
-As the game progresses, occasionally spaces may appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall.
+As the game progresses, occasionally spaces may appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. On your next turn, you must place another card face up here to continue moving.
 
 {% include ad-skyscraper.html %}
 
@@ -104,7 +104,7 @@ Alternatively, you can have fun making up your own stories! [Let us know](/stori
 
 ![treasure2](../assets/treasure2.png)
 
-*The player swaps the Ace card for the Queen and adds it to his hand.*
+*The player swaps the Ace card for the Queen and adds it to his hand. Later on, someone might come along and swap the Jack for the Queen.*
 
 # Attacking other ships
 
