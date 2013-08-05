@@ -68,12 +68,12 @@ If you have landed on another player ship, resolve the attack (see below. After 
 
 ## Drifting
 
-If you have no crew cards, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
+If you have no crew cards for whatever reason, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
 
 ## Storms
 
-As the game progresses, occasionally spaces will appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall.
+As the game progresses, occasionally spaces may appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall.
 
 {% include ad-skyscraper.html %}
 
