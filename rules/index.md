@@ -35,7 +35,7 @@ Decide who starts by mutual consent. Play continues clockwise in turns. During a
 
 # Sailing
 
-To sail away from an island on the first turn, choose any crew card (number card) from your hand. Show the rest of the players that card and return it to your hand.
+To sail your ship, choose any crew card (number card) from your hand. Place the card face up underneath the island card.
 
 This gives you as many *sailing points* to sail that turn as the number on the card. You don't have to use all your points, but any extra points are wasted.
 
@@ -43,7 +43,7 @@ It costs 3 sailing points to sail to an adjacent square, and 5 points to sail di
 
 You may only change direction once during your turn, you cannot sail into the same square twice in the same turn and you cannot finish on the square you started on.
 
-**In subsequent turns, in order to sail from any sea square, place the chosen crew card face up on the square your ship is on before moving.**
+In subsequent turns, in order to sail from any sea or island square, place the chosen crew card face up on the square your ship is on before moving.
 
 ## "Heave to!"
 
@@ -111,7 +111,9 @@ To attack, pick a crew card from your hand and place it face down in front of yo
 
 If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins.
 
-The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the face up card on top. The winner then gets to select one card at random from the loser's hand and places it in his own hand. If there is a draw, first the attacker selects a card from the defenders hand and then the defender selects a card from the attackers hand (not including the card the attacker just drew).
+The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the island card on top. The winner then gets to select two card at random from the loser's hand and places it in his own hand. The winner then gives the loser one card of their choosing.
+
+If there is a draw, first the attacker selects a two cards from the defenders hand and then the defender selects two cards from the attackers hand (not including the cards the attacker just drew).
 
 ## Attacking example
 
@@ -141,7 +143,19 @@ The cards are worth the following points at game end:
 
 If there is a tie, the person with the most Aces wins, followed by the most Kings, etc.
 
-# Variant: Hidden cards
+# Variants
 
-Whenever you place a crew card down on the sea or island, show the card to the other players, but place it face down rather than up. This makes for a much tougher game, more reliant on memory.
+The following variants haven't been as well tested as the main game: try them and let me know what you think of them!
+
+## Hidden cards
+
+Whenever you place a crew card down on the sea or island, show the card to the other players, but place it face down rather than up. This makes for a tougher game, more reliant on memory.
+
+## Treacherous seas
+
+During the set up of the game, each player takes a card of their choice from the middle and places it around the edge of the map without looking at it, like this:
+
+![setup-seas](../assets/setup-seas.png)
+
+The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
 

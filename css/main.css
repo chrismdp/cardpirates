@@ -72,7 +72,7 @@ ul.posts span {
 
 .site .header h1.title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .site .header h1.title a {
@@ -159,4 +159,12 @@ ul.posts span {
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+.social {
+  background: #eee;
+  border: 1px solid #ddd;
+  padding: 10px 0 4px 15px;
+  margin: 0em 200px 1em 0px;
+  border-radius: 5px;
 }

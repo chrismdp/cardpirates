@@ -7,7 +7,7 @@ title: Card Pirates
 
 # What is Card Pirates?
 
-Card Pirates is a deep and thematic card game for 2 - 4 players, where players take the role of a old fashioned pirate ship on the high seas.
+Card Pirates is a deep and thematic card game for 2 - 4 players. Players take the role of a old fashioned pirate ship on the high seas, searching for treasure, avoiding storms, attacking other ships and attempting to win the favour of the island governors.
 
 It can be learned very quickly, and is great fun to play. You can win if you're lucky, but there's a high amount of strategy too.
 
