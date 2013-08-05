@@ -3,7 +3,6 @@ layout: default
 title: Card Pirates
 ---
 
-# What is Card Pirates?
 
 {% include ad-skyscraper.html %}
 
@@ -17,11 +16,7 @@ Try it with anyone aged about 6 years and older - my 7 and 9 year olds love it.
 
 ## [Read the rules](/rules)
 
-{% include social.html %}
-
-## The back story
-
-I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
+The back story: I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
 
 I came up with the game one day whilst thinking about how to play test an online game I am currently prototyping.
 
@@ -30,3 +25,5 @@ I tried it that afternoon with my kids and they loved it, suggesting lots of ide
 This is the first version of the rules. I'll be making more improvements as time goes on. The source code for this site is [available here](http://github.com/chrismdp/cardpirates) - do feel free to submit pull requests for modifications or improvements if that's your thing.
 
 If you play it, [let me know!](/stories)
+
+{% include social.html %}

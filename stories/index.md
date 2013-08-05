@@ -5,8 +5,6 @@ title: "Card Pirates: Your stories"
 
 {% include ad-skyscraper.html %}
 
-## Your stories
-
 If you've tried the game, I'd love to hear about it!
 
 Add a report, a photo or video of yourself playing the game below.
