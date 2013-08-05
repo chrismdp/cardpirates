@@ -5,15 +5,15 @@ title: Rules
 
 # Rules
 
-## Setup
+{% include ad-skyscraper.html %}
 
 All you need is a standard deck of cards, and a makeshift counter of some sort for each player.
 
+## Setup
+
 Find a space on the ground or a table. Take your pack of cards, remove the aces and place them to one side. For 2 player games deal 6 cards to each player, for 3 players deal four cards, and 4 players deal 3 cards.
 
-Lay out the remaining cards face down in a 6 by 6 rectangle.
-
-This rectangle represents *the high seas*. There are four *islands* on the sea, represented at by the four Aces. Place each of these face up on each corner of the rectangle, one in from the edge, like this:
+Lay out the remaining cards face down in a 6 by 6 rectangle. This rectangle represents *the high seas*. There are four *islands* on the sea, represented at by the four Aces. Place each of these face up on each corner of the rectangle, one in from the edge, like this:
 
 ![setup]({{site.url}}/assets/setup.png)
 
@@ -21,7 +21,7 @@ Place each player's counter on one island of the sea - this represents their *sh
 
 ## Aim
 
-The player who scores the most points in hand wins at the game end. Points are gained through meeting important people and finding treasure.
+The player who scores the most points in hand wins at the game end. Points are gained through recruiting first mates, meeting island governors and finding treasure.
 
 ## Gameplay
 
