@@ -3,15 +3,16 @@ layout: default
 title: "Card Pirates: Rules"
 ---
 
-{% include ad-skyscraper.html %}
-
-# Rules
-
 *version 1.0.0*
 
-All you need is a standard deck of cards, and a makeshift counter of some sort for each player. Use a deck of cards with blue backs for added theme.
+{% include ad-skyscraper.html %}
+
+* This will become a table of contents
+{:toc}
 
 # Setting up
+
+All you need is a standard deck of cards, and a makeshift counter of some sort for each player. Use a deck of cards with blue backs for added theme, and little pirate ships if you can find some!
 
 Find a space on the ground or a table. Take your pack of cards, remove the Aces and place them to one side.
 
@@ -81,7 +82,7 @@ As the game progresses, occasionally spaces may appear without cards on them. Th
 
 If, when landing on an island, you have a face card in your hand *of the same suit* as an ace or higher face card on the island you have landed on, you may exchange the cards and place the higher card in your hand.
 
-You can only perform this exchange when first landing on the island, and you may not exchange a lower card for a higher one.
+You can only perform this exchange when first landing on the island, and you may not take a lower card in exchange for a higher one.
 
 These exchanges might represent the following plot lines:
 
@@ -145,13 +146,13 @@ If there is a tie, the person with the most Aces wins, followed by the most King
 
 # Variants
 
-The following variants haven't been as well tested as the main game: try them and let me know what you think of them!
+The following variants haven't been as well tested as the main game: but do try them and let me know what you think of them!
 
-## Hidden cards
+## Variant: Hidden cards
 
 Whenever you place a crew card down on the sea or island, show the card to the other players, but place it face down rather than up. This makes for a tougher game, more reliant on memory.
 
-## Treacherous seas
+## Variant: Treacherous seas
 
 During the set up of the game, each player takes a card of their choice from the middle and places it around the edge of the map without looking at it, like this:
 
@@ -159,7 +160,7 @@ During the set up of the game, each player takes a card of their choice from the
 
 The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
 
-## Burying treasure
+## Variant: Burying treasure
 
 When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then picked up by any player which sails to that square in future.
 
