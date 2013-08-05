@@ -32,7 +32,7 @@ The player who scores the most points in hand wins at the game end. Points are g
 
 # Starting the game
 
-Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they have no crew cards.
+Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they cannot sail or have two cards or less.
 
 # Sailing
 
@@ -54,6 +54,9 @@ If you choose to sail onto an island space, you must end your turn there. Pick u
 
 If you have landed on another player ship, resolve the attack (see below. After this, your turn is over, and play passes to the left.
 
+## The '2' crew cards
+
+Note that the 2 cards don't give you enough movement points to move, and are therefore useless for sailing. These represent landlubbers and/or prisoners on your ship. You can use them in combat, or give them to another player when winning a battle.
 
 ## Sailing example
 
@@ -69,8 +72,7 @@ If you have landed on another player ship, resolve the attack (see below. After 
 
 ## Drifting
 
-If you have no crew cards for whatever reason, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
-
+If you have two cards or less, or you have no crew cards which allow sailing normally, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
 ## Storms
 
@@ -92,7 +94,7 @@ These exchanges might represent the following plot lines:
 - *Queen replaces King:* The Governor falls in love with the beautiful pirate maiden and agrees to marry her. You take the King card to represent the Governor's friendship and allegiance.
 - *Jack replaces Queen:* Tired of boring island life, the Governor's daughter runs away to join your pirate crew.
 
-Alternatively, you can have fun making up your own stories! Let us know if you come up with any good ones.
+Alternatively, you can have fun making up your own stories! [Let us know](/stories) if you come up with any good ones.
 
 ## Searching for treasure example
 
@@ -124,11 +126,13 @@ If there is a draw, first the attacker selects a two cards from the defenders ha
 
 ![combat2](../assets/combat2.png)
 
-*The white player chooses a 6 and the black player chooses an 8, so the black ship is the winner. The black player chooses a card at random from the white player's remaining hand of 2, and luckily chooses the Ace: they have stolen the treasure from the white ship!*
+*The white player chooses a 6 and the black player chooses an 8, so the black ship is the winner. The black player chooses two cards at random from the white player's remaining hand of 2, and luckily chooses the Ace as one of them: they have stolen the treasure from the white ship!*
 
 ![combat3](../assets/combat3.png)
 
-*The crew cards used in the battle are lost as casualties and are sent to the nearest island, two squares due west. They will be recruited as fresh crew next time another ship lands on the island.*
+*The black player now gives one card of their choice to the white player: they choose the 2 of diamonds.*
+
+*The crew cards used in the battle are lost as casualties. The 6 of diamonds is sent to Diamond Island due west of the battle, and the 8 of hearts is sent to Heart Island elsewhere on the board. They will be recruited as fresh crew next time another ship lands on the island.*
 
 # Game end
 
