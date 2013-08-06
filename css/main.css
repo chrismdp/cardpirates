@@ -38,11 +38,16 @@ table {
 /*****************************************************************************/
 ul.posts {
   list-style-type: none;
-  margin-bottom: 2em;
+  margin: 1em 0 2em 0;
+  text-align: left;
 }
 
 ul.posts li {
   line-height: 1.75em;
+}
+
+ul.posts li a {
+  text-decoration: none;
 }
 
 ul.posts span {

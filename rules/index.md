@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Card Pirates: Rules"
+title: "Rules"
 ---
+
+<h2>{{ page.title }}</h2>
 
 *version 1.0.0*
 

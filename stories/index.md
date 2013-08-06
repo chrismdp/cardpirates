@@ -1,7 +1,9 @@
 ---
 layout: default
-title: "Card Pirates: Your stories"
+title: "Your stories"
 ---
+
+<h2>{{ page.title }}</h2>
 
 {% include ad-skyscraper.html %}
 

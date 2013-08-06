@@ -3,8 +3,7 @@ layout: default
 title: Card Pirates
 ---
 
-
-{% include ad-skyscraper.html %}
+{% include latest-news.html %}
 
 ![photo](../assets/photo1.jpg)
 
@@ -16,9 +15,11 @@ The game is playable with **just one pack of playing cards and a token to repres
 
 Try it with anyone aged about 6 years and older. My 7 and 9 year olds love it.
 
-## [Read the rules](/rules)
+**[Read the rules](/rules)**
 
-**The back story**: I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
+### The back story
+
+I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
 
 I came up with the game one day whilst thinking about how to play test an online game I am currently prototyping.
 
