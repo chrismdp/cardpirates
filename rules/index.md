@@ -5,7 +5,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.0.0*
+*version 1.0.1*
 
 {% include ad-skyscraper.html %}
 
@@ -26,7 +26,11 @@ Place each player's counter on one island on the sea - this represents their *sh
 
 Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards.
 
-Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are new *first mates* you've recruited - they have a treasure map you can used to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Aces represent *treasure*.
+## The cards
+
+Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are special pirates amongst your crew - they have treasure map or inside knowledge you can use to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Aces represent *treasure*.
+
+Your hand is always hidden from other players: others are entitled to know how many cards you have in your hand, but not the contents.
 
 # Aim
 
@@ -52,9 +56,11 @@ In subsequent turns, in order to sail from any sea or island square, follow the 
 
 When coming to rest on a sea square, pick up any cards on that square and add them to your hand.
 
-If you choose to sail onto an island space, you must end your turn there. Pick up any cards underneath the face up card (but not the face up card itself.)
+If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see below) pick up any cards underneath the face up card, but not the face up card itself.
 
-If you have landed on another player ship, resolve the attack (see below. After this, your turn is over, and play passes to the left.
+If you have landed on another player ship on a sea space, resolve the attack (see below.) You must end your turn when moving onto a space with another ship, you cannot sail past them.
+
+After any attack is resolved, your turn is over, and play passes to the left.
 
 ## The '2' crew cards
 
@@ -76,15 +82,19 @@ Note that the 2 cards don't give you enough movement points to move, and are the
 
 If you have two cards or less, or you have no crew cards which allow sailing normally, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
+You are allowed to drift into a storm space if you choose. You cannot drift to a square with another player ship, and you cannot drift diagonally. If you cannot sail or drift for whatever reason, you forfeit your turn.
+
 ## Storms
 
-As the game progresses, occasionally spaces may appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. On your next turn, you must place another card face up here to continue moving.
+As the game progresses, occasionally spaces may appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. If you choose to or are forced to place a face or ace card, place it face down. If you have no cards, you do not have to place anything.
+
+On your next turn, you must place another card face up here to continue moving as normal.
 
 {% include ad-skyscraper.html %}
 
-# Discovering treasure and island politics
+# Exchanges: discovering treasure and island politics
 
-If, when landing on an island, you have a face card in your hand *of the same suit* as an ace or higher face card on the island you have landed on, you may exchange the cards and place the higher card in your hand.
+If, when landing on an island, you have a face card in your hand *of the same suit* as an ace or higher face card on the island you have landed on, you may immediately exchange the cards and place the higher card in your hand *before* picking up the cards on the island.
 
 You can only perform this exchange when first landing on the island, and you may not take a lower card in exchange for a higher one.
 
