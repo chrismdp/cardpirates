@@ -64,7 +64,7 @@ After any attack is resolved, your turn is over, and play passes to the left.
 
 ## The '2' crew cards
 
-Note that the '2' number cards don't give you enough movement points to move, and are therefore useless for sailing. These are the dead weight in your crew: landlubbers who can't sail for toffee! They're not entirely useless though: you can use them in combat (in which case you're likely to lose), place them down in a storm, or dump them on another player when winning a battle.
+Note that the '2' number cards don't give you enough movement points to move, and are therefore useless for sailing. These are the dead weight in your crew: landlubbers who can't sail for toffee! They're not entirely useless though: you can use them in combat (in which case you're very likely to lose), place them down in a storm, or dump them on another player when winning a battle.
 
 ## Sailing example
 
@@ -122,13 +122,15 @@ Alternatively, you can have fun making up your own stories! [Let us know](/stori
 
 To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved. If you sail to a square with more than one ship, you choose which ship you attack.
 
-To attack, pick a crew card from your hand and place it face down in front of you. The defender does the same, and both cards are revealed together. The player with the highest card is the winner.
+To attack, pick a crew card from your hand and place it face down in front of you. The defender does the same, and both cards are revealed together. The player with the highest card is the winner of the attack.
 
-If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins.
+If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins. You cannot attack if you don't have a crew card.
 
-The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the island card on top. The winner then gets to select two card at random from the loser's hand and places it in his own hand. The winner then gives the loser one card of their choosing.
+The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the island card on top. The winner then gets to select up to two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
 
-If there is a draw, first the attacker selects a two cards from the defenders hand and then the defender selects two cards from the attackers hand (not including the cards the attacker just drew).
+If the loser has only one card, the attacker only takes one: if the loser's hand is empty, the attacker does not get to take cards. The winner must still give the loser a card, no matter how many cards they managed to take.
+
+If there is a draw, first the attacker selects up to two cards from the defenders hand and then the defender selects up to two cards from the attackers hand (not including the cards the attacker just drew). If either player has only one card, only one card is exchanged; if either player's hand is empty, then no cards are exchanged.
 
 ## Attacking example
 
@@ -174,7 +176,7 @@ During the set up of the game, each player takes a card of their choice from the
 
 ![setup-seas](../assets/setup-seas.png)
 
-The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
+If there are only two players, each player takes two cards to leave four open areas of the map. The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
 
 ## Variant: Burying treasure
 
