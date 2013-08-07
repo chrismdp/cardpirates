@@ -64,7 +64,7 @@ After any attack is resolved, your turn is over, and play passes to the left.
 
 ## The '2' crew cards
 
-Note that the 2 cards don't give you enough movement points to move, and are therefore useless for sailing. These represent landlubbers or prisoners on your ship. You can use them in combat, or give them to another player when winning a battle.
+Note that the '2' number cards don't give you enough movement points to move, and are therefore useless for sailing. These are the dead weight in your crew: landlubbers who can't sail for toffee! They're not entirely useless though: you can use them in combat (in which case you're likely to lose), place them down in a storm, or dump them on another player when winning a battle.
 
 ## Sailing example
 
