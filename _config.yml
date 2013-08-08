@@ -2,3 +2,4 @@ name: Card Pirates
 markdown: kramdown
 permalink: /blog/:title/
 timezone: Europe/London
+future: false

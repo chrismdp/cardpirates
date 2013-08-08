@@ -5,7 +5,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.0.1*
+*version 1.0.2*
 
 {% include ad-skyscraper.html %}
 
@@ -100,11 +100,13 @@ You can only perform this exchange when first landing on the island, and you may
 
 These exchanges might represent the following plot lines:
 
-- *Queen/Jack replaces Ace:* Your first mate finds buried treasure using an old map. Take the ace card and add it to your hand.
-- *King replaces Ace:* In return for rescuing you from kidnappers, the Governor gives you a handsome reward.
-- *Jack replaces King:* The long lost son of the Governor has been found! You take the King card to represent the Governor's thanks and allegiance.
-- *Queen replaces King:* The Governor falls in love with the beautiful pirate maiden and agrees to marry her. You take the King card to represent the Governor's friendship and allegiance.
-- *Jack replaces Queen:* Tired of boring island life, the Governor's daughter runs away to join your pirate crew.
+- *Queen replaces Ace:* X marks the spot: Your first mate finds buried treasure using an old map.
+- *Jack replaces Ace:* Ransacked! Your dastardly crew have ransacked the governors palace, carrying off every ounce of gold, including recently discovered buried treasure.
+- *King replaces Ace:* Ransom: In return for rescuing him from vile kidnappers, the Governor gives you a handsome reward. (Note: you could just hold as hostage on the ship should there be no treasure left in the palace)
+- *Jack replaces King:* Letter of Marque: you take the King card to represent the Governor's letter and his patronage.
+- *Queen replaces King:* Matrimony: The Governor falls in love with the beautiful pirate maiden and agrees to marry her. You take the King card to represent the Governor's friendship and allegiance.
+- *Jack replaces Queen:* Stowaway: Tired of boring island life, the Governor's daughter runs away to join your crew. What will become of her?
+
 
 Alternatively, you can have fun making up your own stories! [Let us know](/stories) if you come up with any good ones.
 
