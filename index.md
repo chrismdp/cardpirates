@@ -17,6 +17,8 @@ Try it with anyone aged about 6 years and older. My 7 and 9 year olds love it.
 
 **[Read the rules](/rules)**
 
+Played the game? **[Share stories and feedback!](/stories)**
+
 ### The back story
 
 I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
