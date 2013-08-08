@@ -8,7 +8,7 @@ tags: story
 
 Loving the chance to tell pirate stories with my kids through playing Card Pirates. The island interaction is a basic way of doing this: in the manual it has some plot ideas for what happens when different cards are exchanged.
 
-Here are a few other ideas below, which I've incorporated into the manual:
+Here are a few other ideas below, which I've incorporated into [the rules](/rules):
 
 - *Queen replaces Ace:* X marks the spot: Your first mate finds buried treasure using an old map.
 - *Jack replaces Ace:* Ransacked! Your dastardly crew have ransacked the governors palace, carrying off every ounce of gold, including recently discovered buried treasure.
