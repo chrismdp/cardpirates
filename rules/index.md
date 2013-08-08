@@ -5,7 +5,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.0.2*
+*version 1.1.0*
 
 {% include ad-skyscraper.html %}
 
@@ -61,6 +61,12 @@ If you choose to sail onto an island space, you must end your turn there. After 
 If you have landed on another player ship on a sea space, resolve the attack (see below.) You must end your turn when moving onto a space with another ship, you cannot sail past them.
 
 After any attack is resolved, your turn is over, and play passes to the left.
+
+## Burying treasure
+
+When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then picked up by any player (including yourself) which sails to that square in future.
+
+You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
 
 ## The '2' crew cards
 
@@ -180,8 +186,3 @@ During the set up of the game, each player takes a card of their choice from the
 
 If there are only two players, each player takes two cards to leave four open areas of the map. The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
 
-## Variant: Burying treasure
-
-When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then picked up by any player which sails to that square in future.
-
-You can use this to bury treasure to retrieve later, or leave useless cards as a decoy! This variant adds more strategy at the risk of making the game a bit more complex.

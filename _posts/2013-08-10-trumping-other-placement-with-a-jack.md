@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Trumping other potential placements with a Jack"
-date: 2013-08-09 13:49:55 +0100
 tags: story
 
 ---
@@ -12,4 +11,4 @@ After playing for a few turns you start getting a sense of who has which cards, 
 
 This trumped both cards: as you cannot replace a lower card with a higher one, once the Jack is exchanged on the island no further exchanges are possible.
 
-Therefore a Jack is possibly the most powerful card in the game at this point: it's only worth a point, but it can always be exchanged on an island for something else. It's not worth replacing a Queen with it, as they're worth the same amount, but it can stop any other higher card taking treasure.
+Therefore a Jack is possibly the most powerful card in the game at this point: it's worth the least points, but it can always be exchanged on an island for something else, and it can stop any other higher card taking treasure.
