@@ -30,5 +30,3 @@ I tried it that afternoon with my kids and they loved it, suggesting lots of ide
 This is the first version of the rules. I'll be making more improvements as time goes on. The source code for this site is [available here](http://github.com/chrismdp/cardpirates) - do feel free to submit pull requests for modifications or improvements if that's your thing.
 
 If you play it, [let me know!](/stories)
-
-{% include social.html %}
