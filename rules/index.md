@@ -64,7 +64,7 @@ After any attack is resolved, your turn is over, and play passes to the left.
 
 ## Burying treasure
 
-When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then picked up by any player (including yourself) which sails to that square in future.
+When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then automatically dug up by any player (including yourself) who sails to that square in future.
 
 You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
 
@@ -98,7 +98,7 @@ On your next turn, you must place another card face up here to continue moving a
 
 {% include ad-skyscraper.html %}
 
-# Exchanges: discovering treasure and island politics
+# Interacting with islands
 
 If, when landing on an island, you have a face card in your hand *of the same suit* as an ace or higher face card on the island you have landed on, you may immediately exchange the cards and place the higher card in your hand *before* picking up the cards on the island.
 
