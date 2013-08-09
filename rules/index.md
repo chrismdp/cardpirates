@@ -138,7 +138,7 @@ The cards used in the attack and defence are lost as casualties. They are placed
 
 If the loser has only one card, the attacker only takes one: if the loser's hand is empty, the attacker does not get to take cards. The winner must still give the loser a card, no matter how many cards they managed to take.
 
-If there is a draw, first the attacker selects up to two cards from the defenders hand and then the defender selects up to two cards from the attackers hand (not including the cards the attacker just drew). If either player has only one card, only one card is exchanged; if either player's hand is empty, then no cards are exchanged.
+If there is a draw, first the attacker selects two cards from the defenders hand and then the defender selects two cards from the attackers hand (not including the cards the attacker just drew). If either player has only one card, only one card is exchanged; if either player's hand is empty, then no cards are exchanged.
 
 ## Attacking example
 
