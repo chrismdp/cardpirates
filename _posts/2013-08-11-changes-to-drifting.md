@@ -15,4 +15,6 @@ After some thought and a few more playtests, I've changed the drifting rules:
 
 - Previously you could assert "I have no crew cards" and simply drift with lots of treasure. That's no longer allowed as it makes it easy to cheat and makes crew card management less necessary. Therefore, a new rule in version 1.2.0 reads as follows: **if you cannot place a crew card to sail and you have more than three cards, you must lighten your ship load by burying treasure.** You must place cards face down cards on your square until your cards total three or less, and then your ship may drift. This could be a heavy penalty if your ship is loaded with treasure: don't run out of crew cards!
 
+- I've also tweaked the scoring: Aces are now worth 4, Kings 3, Queens 2 and Jacks 1. This makes it worth exchanging Queens for Jacks and gives you a few more options in the end game. It's also easier to remember.
+
 [Let me know](/stories) what you think of the new rules!

@@ -98,7 +98,7 @@ Before placing a card face up to sail from an island or sea space, you have the 
 
 You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
 
-If burying cards reduces your hand to three cards or less, you are able to drift from that square in the same turn without placing further face up sailing cards.
+If burying cards reduces your hand to three cards or less, you are able to drift from that square in the same turn without placing further sailing cards.
 
 ## Storms
 
@@ -138,7 +138,7 @@ Alternatively, you can have fun making up your own stories! [Let us know](/stori
 
 # Attacking other ships
 
-To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved. If you sail to a square with more than one ship, you choose which ship you attack.
+To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved. If you sail to a square with more than one ship, only one attack takes place: the attacker chooses which ship to attack.
 
 To attack, pick a crew card from your hand and place it face down in front of you. The defender does the same, and both cards are revealed together. The player with the highest card is the winner of the attack.
 
@@ -172,9 +172,9 @@ The game ends when all treasure has been reclaimed (all Aces are replaced by fac
 
 The cards are worth the following points at game end:
 
-- Ace: 3
-- King: 2
-- Queen: 1
+- Ace: 4
+- King: 3
+- Queen: 2
 - Jack: 1
 - Crew cards: 0
 
