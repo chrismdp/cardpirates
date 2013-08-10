@@ -5,7 +5,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.1.0*
+*version 1.2.0*
 
 {% include ad-skyscraper.html %}
 
@@ -22,13 +22,15 @@ Lay out 36 cards face down in a 6 x 6 rectangle. This rectangle represents *the 
 
 ![setup](../assets/setup.png)
 
+These upturned Aces will be replaced by other face cards during the game: cards placed on the map in this way are collectively known as *island cards.*
+
 Place each player's counter on one island on the sea - this represents their *ship*. In two player games put the players on diagonally opposite islands.
 
 Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards.
 
 ## The cards
 
-Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are special pirates amongst your crew - they have treasure map or inside knowledge you can use to recover treasure on an island. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Aces represent *treasure*.
+Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are special people amongst your crew - they have treasure maps, inside knowledge you can use to ransack an island, or perhaps a member of the governor's family. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Aces represent *treasure*.
 
 Your hand is always hidden from other players: others are entitled to know how many cards you have in your hand, but not the contents.
 
@@ -38,7 +40,7 @@ The player who scores the most points in hand wins at the game end. Points are g
 
 # Starting the game
 
-Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they cannot sail or have two cards or less.
+Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they have no crew cards above a '2', or have three cards or less of any type.
 
 # Sailing
 
@@ -56,7 +58,7 @@ In subsequent turns, in order to sail from any sea or island square, follow the 
 
 When coming to rest on a sea square, pick up any cards on that square and add them to your hand.
 
-If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see below) pick up any cards underneath the face up card, but not the face up card itself.
+If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see below) pick up any cards underneath the upturned face card, but not the face card itself.
 
 If you have landed on another player ship on a sea space, resolve the attack (see below.) You must end your turn when moving onto a space with another ship, you cannot sail past them.
 
@@ -64,9 +66,13 @@ After any attack is resolved, your turn is over, and play passes to the left.
 
 ## Burying treasure
 
-When placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then automatically dug up by any player (including yourself) who sails to that square in future.
+Before placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then automatically dug up by any player (including yourself) who sails to that square in future.
 
 You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
+
+### Burying and drifting
+
+If burying cards reduces your hand to three cards or less, you are able to drift from that square without placing further cards.
 
 ## The '2' crew cards
 
@@ -86,7 +92,7 @@ Note that the '2' number cards don't give you enough movement points to move, an
 
 ## Drifting
 
-If you have two cards or less, or you have no crew cards which allow sailing normally, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
+If you have three cards or less, or you have no crew cards which allow sailing normally, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
 You are allowed to drift into a storm space if you choose. You cannot drift to a square with another player ship, and you cannot drift diagonally. If you cannot sail or drift for whatever reason, you forfeit your turn.
 
