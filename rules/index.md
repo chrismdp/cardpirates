@@ -86,7 +86,11 @@ Note that the '2' number cards don't give you enough movement points to move, an
 
 If you have three cards or less, or you have no crew cards which allow sailing normally, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
-You are allowed to drift into a storm space if you choose. You cannot drift to a square with another player ship, and you cannot drift diagonally. If you cannot sail or drift for whatever reason, you forfeit your turn.
+You can only drift in a straight line: you cannot drift diagonally.
+
+You are allowed to drift into a storm space or an island square if you choose. You can drift to a square with another player ship: combat is resolved normally (this is effectively 'playing dead' and allowing another ship a target they can't refuse.)
+
+If you cannot sail or drift for whatever reason, you forfeit your turn.
 
 ## Burying treasure
 
@@ -94,7 +98,7 @@ Before placing a card face up to sail from an island or sea space, you have the 
 
 You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
 
-If burying cards reduces your hand to three cards or less, you are able to drift from that square in the same turn without placing further cards.
+If burying cards reduces your hand to three cards or less, you are able to drift from that square in the same turn without placing further face up sailing cards.
 
 ## Storms
 
