@@ -40,7 +40,7 @@ The player who scores the most points in hand wins at the game end. Points are g
 
 # Starting the game
 
-Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they have no crew cards above a '2', or have three cards or less of any type.
+Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they have three cards or less.
 
 # Sailing
 
@@ -50,9 +50,11 @@ This gives you as many *sailing points* to sail that turn as the number on the c
 
 It costs 3 sailing points to sail to an adjacent square, and 5 points to sail diagonally.
 
-You cannot sail into the same square twice in the same turn, and you cannot finish on the square you started on.
+You cannot sail into the same square twice in the same turn, and you cannot finish on the square you started on. You must either sail or drift: you cannot stay in the same square.
 
 In subsequent turns, in order to sail from any sea or island square, follow the same process: place the chosen crew card face up on the square your ship is on before moving, under any island card.
+
+If you cannot place a crew card, yet you have more than three cards in your hand, you must bury treasure (see below) by placing cards face down on your square until you only have three cards so that you are able to drift.
 
 ## "Heave to!"
 
@@ -63,16 +65,6 @@ If you choose to sail onto an island space, you must end your turn there. After 
 If you have landed on another player ship on a sea space, resolve the attack (see below.) You must end your turn when moving onto a space with another ship, you cannot sail past them.
 
 After any attack is resolved, your turn is over, and play passes to the left.
-
-## Burying treasure
-
-Before placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then automatically dug up by any player (including yourself) who sails to that square in future.
-
-You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
-
-### Burying and drifting
-
-If burying cards reduces your hand to three cards or less, you are able to drift from that square without placing further cards.
 
 ## The '2' crew cards
 
@@ -96,11 +88,19 @@ If you have three cards or less, or you have no crew cards which allow sailing n
 
 You are allowed to drift into a storm space if you choose. You cannot drift to a square with another player ship, and you cannot drift diagonally. If you cannot sail or drift for whatever reason, you forfeit your turn.
 
+## Burying treasure
+
+Before placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then automatically dug up by any player (including yourself) who sails to that square in future.
+
+You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
+
+If burying cards reduces your hand to three cards or less, you are able to drift from that square in the same turn without placing further cards.
+
 ## Storms
 
-As the game progresses, occasionally spaces may appear without cards on them. These represent fearful storms drifting across the sea. If you sail to a square without any card on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. If you choose to or are forced to place a face or ace card, place it face down. If you have no cards, you do not have to place anything.
+As the game progresses, occasionally spaces will appear without cards or ships on them. These represent fearful storms drifting across the sea. If you sail to a square without any card or other ship on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. If you choose to or are forced to place a face or ace card, place it face down. If you have no cards, you do not have to place anything.
 
-On your next turn, you must place another card face up here to continue moving as normal.
+On your next turn, you must place another card face up here to continue moving as normal (or you may drift if you are allowed to.)
 
 {% include ad-skyscraper.html %}
 
@@ -140,7 +140,7 @@ To attack, pick a crew card from your hand and place it face down in front of yo
 
 If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins. You cannot attack if you don't have a crew card.
 
-The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the island card on top. The winner then gets to select up to two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
+The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the face up island card. The winner then gets to select up to two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
 
 If the loser has only one card, the attacker only takes one: if the loser's hand is empty, the attacker does not get to take cards. The winner must still give the loser a card, no matter how many cards they managed to take.
 
