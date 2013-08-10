@@ -11,4 +11,4 @@ After playing for a few turns you start getting a sense of who has which cards, 
 
 This trumped both cards: as you cannot replace a lower card with a higher one, once the Jack is exchanged on the island no further exchanges are possible.
 
-Therefore a Jack is possibly the most powerful card in the game at this point: it's worth the least points, but it can always be exchanged on an island for something else, and it can stop any other higher card taking treasure.
+Therefore a Jack is possibly the most powerful face card in the game. It's worth the least points, but it can always be exchanged on an island for something else, and it can stop any other higher card taking treasure.
