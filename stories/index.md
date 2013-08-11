@@ -11,7 +11,7 @@ If you've tried the game, I'd love to hear about it!
 
 Add a report, a photo or video of yourself playing the game below.
 
-If you have any comments, queries or suggestions for improvements, please add them here. Alternatively you can <a href='mailto:chris@thinkcodelearn.com'>email me</a>.
+If you have any comments, queries or suggestions for improvements, please also add them here. Alternatively you can <a href='mailto:chris@thinkcodelearn.com'>email me</a>.
 
 <div id="disqus_thread" style='margin-right: 200px'></div>
 <script type="text/javascript">

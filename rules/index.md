@@ -9,6 +9,8 @@ title: "Rules"
 
 {% include ad-skyscraper.html %}
 
+If you need any clarifications, [get in touch!](/stories)
+
 * This will become a table of contents
 {:toc}
 
@@ -79,8 +81,6 @@ Note that the '2' number cards don't give you enough movement points to move, an
 ![movement-chosen](../assets/movement-chosen.png)
 
 *The player chooses to move North East to the island, and uses their 5 crew card to do so. They place the card face up on the square they have moved from. The player then picks up any cards below the face up ace card - in this case a 10.*
-
-*When moving next turn, the player will only have to show the other players a crew card rather than place one, as they are now on an island square.*
 
 ## Drifting
 
