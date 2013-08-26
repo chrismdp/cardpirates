@@ -24,7 +24,7 @@ Lay out 36 cards face down in a 6 x 6 rectangle. This rectangle represents *the 
 
 ![setup](../assets/setup.png)
 
-These upturned Aces will be replaced by other face cards during the game: cards placed on the map in this way are collectively known as *island cards.*
+These upturned Aces will be replaced by other face cards during the game: cards placed on the map face-up in this way are collectively known as *island cards.*
 
 Place each player's counter on one island on the sea - this represents their *ship*. In two player games put the players on diagonally opposite islands.
 
@@ -32,7 +32,7 @@ Deal the remaining cards to the players. In 2 player games each player should ha
 
 ## The cards
 
-Cards in a players hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Jack and Queen cards are special people amongst your crew - they have treasure maps, inside knowledge you can use to ransack an island, or perhaps a member of the governor's family. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Aces represent *treasure*.
+Cards in a player's hand have different uses. The number cards are *crew cards* and can be used to sail the ship and to fight battles. The Aces represent *treasure*. The Kings represent *island governors* - you can sail them back to their island for a reward, or keep them as a prisoner on your ship. The Jack and Queen cards are special people amongst your crew - they have treasure maps, inside knowledge you can use to ransack an island, or are members of a governor's family.
 
 Your hand is always hidden from other players: others are entitled to know how many cards you have in your hand, but not the contents.
 
@@ -56,15 +56,15 @@ You cannot sail into the same square twice in the same turn, and you cannot fini
 
 In subsequent turns, in order to sail from any sea or island square, follow the same process: place the chosen crew card face up on the square your ship is on before moving, under any island card.
 
-If you cannot place a crew card, yet you have more than three cards in your hand, you must bury treasure (see below) by placing cards face down on your square until you only have three cards so that you are able to drift.
+If you cannot place a crew card, yet you have more than three cards in your hand, you must bury treasure (see [Burying treasure](#burying-treasure) below) by placing cards face down on your square until you only have three cards so that you are able to drift.
 
 ## "Heave to!"
 
 When coming to rest on a sea square, pick up any cards on that square and add them to your hand.
 
-If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see below) pick up any cards underneath the upturned face card, but not the face card itself.
+If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see [Interacting with Islands](#interacting-with-islands)) pick up any cards underneath the upturned face card, but not the face card itself.
 
-If you have landed on another player ship on a sea space, resolve the attack (see below.) You must end your turn when moving onto a space with another ship, you cannot sail past them.
+If you have landed on another player ship on a sea space, resolve the attack (see [Attacking other ships](#attacking-other-ships).) You must end your turn when moving onto a space with another ship, you cannot sail past them.
 
 After any attack is resolved, your turn is over, and play passes to the left.
 
@@ -88,13 +88,13 @@ If you have three cards or less, or you have no crew cards which allow sailing n
 
 You can only drift in a straight line: you cannot drift diagonally.
 
-You are allowed to drift into a storm space or an island square if you choose. You can drift to a square with another player ship: combat is resolved normally (this is effectively 'playing dead' and allowing another ship a target they can't refuse.)
+You are allowed to drift into a storm space or an island square if you choose. You can drift to a square with another player ship: in this case, combat is resolved normally (this is effectively 'playing dead' and allowing another ship a target they can't refuse.)
 
 If you cannot sail or drift for whatever reason, you forfeit your turn.
 
 ## Burying treasure
 
-Before placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down beneath the face up card. These cards are then automatically dug up by any player (including yourself) who sails to that square in future.
+Before placing a card face up to sail from an island or sea space, you have the additional option of placing any number of any type of card face down on the square. Cards are placed beneath any face up cards. These cards represent buried treasure: they are automatically dug up by any player (including yourself) who sails to that square in future.
 
 You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
 
@@ -148,7 +148,7 @@ The cards used in the attack and defence are lost as casualties. They are placed
 
 If the loser has only one card, the attacker only takes one: if the loser's hand is empty, the attacker does not get to take cards. The winner must still give the loser a card, no matter how many cards they managed to take.
 
-If there is a draw, first the attacker selects two cards from the defenders hand and then the defender selects two cards from the attackers hand (not including the cards the attacker just drew). If either player has only one card, only one card is exchanged; if either player's hand is empty, then no cards are exchanged.
+If there is a draw, first the attacker selects two cards from the defenders hand and then the defender selects two cards from the attackers hand (not including the cards the attacker just drew.) If either player has only one card, only one card is exchanged; if either player's hand is empty, then no cards are exchanged.
 
 ## Attacking example
 
@@ -194,7 +194,7 @@ During the set up of the game, each player takes a card of their choice from the
 
 ![setup-seas](../assets/setup-seas.png)
 
-If there are only two players, each player takes two cards to leave four open areas of the map. The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
+If there are only two players, each player takes two cards to leave four open areas of the map. The gaps in the map are *storms* (see [Storms](#storms)) and cannot be navigated without stopping and placing a card down.
 
 ## Variant: Random Island Placement
 
