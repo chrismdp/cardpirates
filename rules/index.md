@@ -196,3 +196,11 @@ During the set up of the game, each player takes a card of their choice from the
 
 If there are only two players, each player takes two cards to leave four open areas of the map. The gaps in the map are *storms* (see above) and cannot be navigated without stopping and placing a card down.
 
+## Variant: Random Island Placement
+
+At the beginning of the game, before any treacherous sea changes, each player takes it in turns to take a piece and place an island on any square they like with their token on it. This must happen *before* they look at the cards they've gained.
+
+![setup-random-islands](../assets/random-island-placement.png)
+
+This variant can cause the length of the game to fluctuate and introduces more luck into the game. It can work best with combined with Treacherous Seas, Advanced Sailing, or Heightened Intrigue (yet to be released).
+
