@@ -5,7 +5,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.2.0*
+*version 1.3.0*
 
 {% include ad-skyscraper.html %}
 
@@ -168,7 +168,7 @@ If there is a draw, first the attacker selects two cards from the defenders hand
 
 # Game end
 
-The game ends when all treasure has been reclaimed (all Aces are replaced by face cards.) As soon as the last treasure is found, all the hands are shown face up. The person with the highest scoring cards is the winner.
+The game ends when all treasure has been reclaimed and all the island face cards have been replaced by Jacks. As soon as this happens, all the hands are shown face up and the scores are counted.
 
 The cards are worth the following points at game end:
 
@@ -178,7 +178,7 @@ The cards are worth the following points at game end:
 - Jack: 1
 - Crew cards: 0
 
-If there is a tie, the person with the most Aces wins, followed by the most Kings, etc.
+The person with the highest scoring cards is the winner. If there is a tie, the person with the most Aces wins, followed by the most Kings, etc.
 
 # Variants
 
@@ -204,3 +204,8 @@ At the beginning of the game, before any treacherous sea changes, each player ta
 
 This variant can cause the length of the game to fluctuate and introduces more luck into the game. It can work best with combined with Treacherous Seas, Advanced Sailing, or Heightened Intrigue (yet to be released).
 
+## Variant: Simple politics
+
+The game is instead over the moment the last Ace is picked up from the islands, rather than the moment the last Jack is placed.
+
+This makes for a much shorter game, especially with fewer players, and therefore the starting hand becomes much more important, which means that luck has a higher factor. This version works well when playing with younger children.
