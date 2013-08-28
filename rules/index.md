@@ -28,7 +28,7 @@ These upturned Aces will be replaced by other face cards during the game: cards 
 
 Place each player's counter on one island on the sea - this represents their *ship*. In two player games put the players on diagonally opposite islands.
 
-Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards.
+Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards. In [solo play](#variant-solo-play) the player will have all 12 extra cards.
 
 ## The cards
 
@@ -209,3 +209,9 @@ This variant can cause the length of the game to fluctuate and introduces more l
 The game is instead over the moment the last Ace is picked up from the islands, rather than the moment the last Jack is placed.
 
 This makes for a much shorter game, especially with fewer players, and therefore the starting hand becomes much more important, which means that luck has a higher factor. This version works well when playing with younger children.
+
+## Variant: Solo play
+
+You get all 12 of the extra cards at the beginning of the game, but each time you sail or drift you must discard an extra card from your hand. The discarded card is put to one side, plays no further part in the game, and is not counted for scoring.
+
+The game is over as normal, or when you can no longer move or wish to move. You then count up your score to try and beat your record!
