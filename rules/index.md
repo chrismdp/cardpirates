@@ -215,3 +215,13 @@ This makes for a much shorter game, especially with fewer players, and therefore
 You get all 12 of the extra cards at the beginning of the game, but each time you sail or drift you must discard an extra card from your hand. The discarded card is put to one side, plays no further part in the game, and is not counted for scoring.
 
 The game is over as normal, or when you can no longer move or wish to move. You then count up your score to try and beat your record!
+
+## Variant: Advanced sailing
+
+When you are sailing to an island, you must use a crew card of the same suit as the island you are landing on. You are not allowed to drift to an island at all: you must sail there.
+
+For example, to sail to Club Island on this board from the black ship position, you must use a nine or ten of clubs from your hand to do so, rather than just any nine or ten card:
+
+![Advanced Sailing demonstration](/assets/advanced-sailing1.png)
+
+This variant is trickier and more strategic, and can result in much longer games. You might want to play with [Simple Politics](/rules#variant-simple-politics) to keep the game length down.

@@ -19,7 +19,7 @@ Try it with anyone aged about 6 years and older. My 7 and 9 year olds love it.
 
 Played the game? **[Share stories and feedback!](/stories)**
 
-### The back story
+### The story
 
 I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
 
@@ -27,6 +27,6 @@ I came up with the game one day whilst thinking about how to play test an online
 
 I tried it that afternoon with my kids and they loved it, suggesting lots of ideas for improvement - especially after my 9 year old son chased my ship through storm after storm until he'd extracted the last ounce of treasure from the hold!
 
-This is the first version of the rules. I'll be making more improvements as time goes on. The source code for this site is [available here](http://github.com/chrismdp/cardpirates) - do feel free to submit pull requests for modifications or improvements if that's your thing.
+I'll be making more improvements as time goes on. The source code for this site is [available here](http://github.com/chrismdp/cardpirates) - do feel free to submit pull requests for modifications or improvements if that's your thing.
 
 If you play it, [let me know!](/stories)
