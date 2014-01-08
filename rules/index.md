@@ -5,7 +5,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.3.0*
+*version 1.4.0*
 
 {% include ad-skyscraper.html %}
 
@@ -84,11 +84,13 @@ Note that the '2' number cards don't give you enough movement points to move, an
 
 ## Drifting
 
-If you have three cards or less, or you have no crew cards which allow sailing normally, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
+If you have three cards or less, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
 
 You can only drift in a straight line: you cannot drift diagonally.
 
-You are allowed to drift into a storm space or an island square if you choose. You can drift to a square with another player ship: in this case, combat is resolved normally (this is effectively 'playing dead' and allowing another ship a target they can't refuse.)
+You are allowed to drift into a storm space or an island square if you choose - interact with those squares normally as if you were sailing into them. Likewise, you can drift to a square with another player ship: in this case, combat is resolved normally (this is effectively 'playing dead' and allowing another ship a target they can't refuse.)
+
+If you cannot sail due to the lack of a suitable crew card, yet you have more than three cards in your hand, you must bury treasure (see [Burying treasure](#burying-treasure) below) until you only have three cards, and then drift as above.
 
 If you cannot sail or drift for whatever reason, you forfeit your turn.
 
@@ -102,7 +104,7 @@ If burying cards reduces your hand to three cards or less, you are able to drift
 
 ## Storms
 
-As the game progresses, occasionally spaces will appear without cards or ships on them. These represent fearful storms drifting across the sea. If you sail to a square without any card or other ship on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. If you choose to or are forced to place a face or ace card, place it face down. If you have no cards, you do not have to place anything.
+As the game progresses, occasionally spaces will appear without cards or ships on them. These represent fearful storms moving slowly across the sea. If you sail to a square without any card or other ship on it, you must end your turn there and place a crew card face up to represent crew lost during the squall. If you choose to or are forced to place a face or ace card, place it face down. If you have no cards, you do not have to place anything.
 
 On your next turn, you must place another card face up here to continue moving as normal (or you may drift if you are allowed to.)
 
@@ -114,7 +116,7 @@ If, when landing on an island, you have a face card in your hand *of the same su
 
 You can only perform this exchange when first landing on the island, and you may not take a lower card in exchange for a higher one.
 
-These exchanges might represent the following plot lines:
+Thematically, these exchanges could represent the following plot lines:
 
 - *Queen replaces Ace:* X marks the spot: Your first mate finds buried treasure using an old map.
 - *Jack replaces Ace:* Ransacked! Your dastardly crew have ransacked the governors palace, carrying off every ounce of gold, including recently discovered buried treasure.
