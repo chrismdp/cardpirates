@@ -2,6 +2,8 @@
 layout: post
 title:  "Now on Board Game Geek"
 tags: news
+author: Chris
+
 
 ---
 

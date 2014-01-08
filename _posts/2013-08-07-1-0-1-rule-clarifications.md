@@ -3,6 +3,7 @@ layout: post
 title:  "Version 1.0.1: rule clarifications"
 date: 2013-08-07 07:09:50 +0100
 categories: rules
+author: Chris
 
 ---
 

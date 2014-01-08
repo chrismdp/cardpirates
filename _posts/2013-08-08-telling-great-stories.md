@@ -3,6 +3,7 @@ layout: post
 title:  "Telling great stories"
 date: 2013-08-08 13:49:55 +0100
 tags: story
+author: Chris
 
 ---
 

@@ -7,6 +7,8 @@ title: Card Pirates
 
 ![photo](../assets/photo1.jpg)
 
+## [Coming soon for iOS/Android!](/blog/announcement-card-pirates-for-tablet/)
+
 **Card Pirates is a fun thematic pirate card game for 2 - 4 players.** Players take the role of an old fashioned pirate ship on the high seas, searching for treasure, avoiding storms, attacking other ships and attempting to win the favour of the island governors.
 
 It can be learned very quickly, and is great fun to play. You can win if you're lucky, but there's a lot of strategy too. It takes about 20 - 40 minutes to play.

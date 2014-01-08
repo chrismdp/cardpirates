@@ -2,6 +2,7 @@
 layout: post
 title:  "1.2.0: Changes to drifting"
 tags: design rules
+author: Chris
 
 ---
 

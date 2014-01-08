@@ -2,6 +2,7 @@
 layout: post
 title:  "New variant: Random Island Placement"
 tags: design rules variants
+author: Chris
 
 ---
 

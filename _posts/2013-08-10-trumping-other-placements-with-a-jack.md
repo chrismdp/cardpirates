@@ -2,6 +2,7 @@
 layout: post
 title:  "Trumping other potential placements with a Jack"
 tags: story
+author: Chris
 
 ---
 

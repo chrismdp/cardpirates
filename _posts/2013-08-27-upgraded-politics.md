@@ -2,6 +2,8 @@
 layout: post
 title:  "1.3.0: Upgraded politics"
 tags: design rules
+author: Chris
+
 
 ---
 

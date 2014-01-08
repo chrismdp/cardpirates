@@ -3,6 +3,7 @@ layout: post
 title:  "Representing wind speed"
 date: 2013-08-06 13:41:58 +0100
 tags: strategy story
+author: Chris
 
 ---
 

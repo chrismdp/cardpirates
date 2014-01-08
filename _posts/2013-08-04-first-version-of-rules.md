@@ -2,6 +2,7 @@
 layout: post
 title:  "First version of rules now available"
 date:   2013-08-04 21:43:59
+author: Chris
 
 ---
 

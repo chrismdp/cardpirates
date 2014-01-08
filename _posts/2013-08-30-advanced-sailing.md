@@ -2,6 +2,7 @@
 layout: post
 title:  "New variant: Advanced Sailing (I really like this one)"
 tags: design rules variant
+author: Chris
 
 ---
 

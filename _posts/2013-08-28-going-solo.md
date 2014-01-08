@@ -2,6 +2,8 @@
 layout: post
 title:  "New variant: Solo play"
 tags: design rules variant
+author: Chris
+
 
 ---
 

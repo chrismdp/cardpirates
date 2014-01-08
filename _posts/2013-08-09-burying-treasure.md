@@ -3,6 +3,7 @@ layout: post
 title:  "1.1.0: Burying treasure now part of main rules"
 date: 2013-08-09 07:02:29 +0100
 tags: rules story
+author: Chris
 
 ---
 
