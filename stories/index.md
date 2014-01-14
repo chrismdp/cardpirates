@@ -5,8 +5,6 @@ title: "Your stories"
 
 <h2>{{ page.title }}</h2>
 
-{% include ad-skyscraper.html %}
-
 If you've tried the game, I'd love to hear about it!
 
 Add a report, a photo or video of yourself playing the game below.
