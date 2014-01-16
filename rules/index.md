@@ -7,6 +7,8 @@ title: "Rules"
 
 *version 1.4.0*
 
+{% include social.html %}
+
 {% include ad-skyscraper.html %}
 
 If you need any clarifications, [get in touch!](/stories)
@@ -170,7 +172,9 @@ If there is a draw, first the attacker selects two cards from the defenders hand
 
 # Game end
 
-The game ends when all treasure has been reclaimed and all the island face cards have been replaced by Jacks. As soon as this happens, all the hands are shown face up and the scores are counted.
+The game ends when all treasure has been reclaimed and all the island face cards have been replaced by Jacks, or at any point there are no facedown cards on the board.
+
+As soon as this happens, all the hands are shown face up and the scores are counted.
 
 The cards are worth the following points at game end:
 

@@ -4,17 +4,19 @@ title: Card Pirates
 ---
 
 <div class='row'>
-  <div class='col-md-5'>
+  <div class='col-md-4'>
     <div class="jumbotron">
       <h2>Avast there!</h2>
       <p class="lead">Card Pirates is a fun thematic strategy card game for 2 - 4 players. Out soon for iPhone/iPad.</p>
       <p><a class="btn btn-lg btn-success" href="/rules" role="button">Read the tabletop rules</a></p>
     </div>
   </div>
-  <div class='col-md-7'>
-(game goes here)
+  <div class='col-md-7 col-md-offset-1 hidden-xs hidden-sm'>
+<img src='/assets/ipad.png'/>
   </div>
 </div>
+
+<br/>
 
 {% include social.html %}
 
