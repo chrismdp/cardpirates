@@ -25,4 +25,7 @@ You can log in to [our new twitter account](http://twitter.com/cardpirates) to g
   <button type="submit" class='btn btn-success'>Get updates</button>
 </form>
 
+<p>
+<br/>
 Don't worry, we won't give your email address to anyone else. Looking forward to posting more information soon!
+</p>
