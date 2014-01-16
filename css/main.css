@@ -9,6 +9,10 @@ footer {
   background: url(/assets/swatch-black25.png);
 }
 
+.post a, body.rules ul a, body.rules p a {
+  text-decoration: underline;
+}
+
 a {
   color: white;
 }

@@ -1,11 +1,12 @@
 ---
 layout: default
+bodyclass: rules
 title: "Rules"
 ---
 
 <h2>{{ page.title }}</h2>
 
-*version 1.4.0*
+*version 1.5.0*
 
 {% include social.html %}
 
