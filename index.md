@@ -3,44 +3,55 @@ layout: default
 title: Card Pirates
 ---
 
-{% include latest-news.html %}
+<div class='row'>
+  <div class='col-md-5'>
+    <div class="jumbotron">
+      <h2>Avast there!</h2>
+      <p class="lead">Card Pirates is a fun thematic strategy card game for 2 - 4 players. Out soon for iPhone/iPad.</p>
+      <p><a class="btn btn-lg btn-success" href="/rules" role="button">Read the tabletop rules</a></p>
+    </div>
+  </div>
+  <div class='col-md-7'>
+(game goes here)
+  </div>
+</div>
 
-![photo](../assets/photo1.jpg)
+{% include social.html %}
 
-## [Coming soon for iOS/Android!](/blog/announcement-card-pirates-for-tablet/)
+<div class="row">
+  <div class="col-lg-4">
+    <h2>Latest news</h2>
 
-Sign up to receive updates on the upcoming mobile/table app:
+    {% include latest-news.html %}
 
-<form action="http://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
-  <label for="fieldName">Name</label>
-  <input id="fieldName" name="cm-name" type="text" />
-  <label for="fieldEmail">Email</label>
-  <input id="fieldEmail" name="cm-ttlylhk-ttlylhk" type="email" required />
-  <button type="submit">Subscribe</button>
+  </div>
+
+  <div class="col-lg-4">
+    <h2>Play the card game</h2>
+    <p>
+      <img src='/assets/photo1.jpg' width='100%'/>
+     </p>
+    <p>Card Pirates existed first as a tabletop game playable with nothing but a pack of regular playing cards and some counters. You can have a go by reading the rules here:</p>
+
+    <p><a class="btn btn-success" href="/rules" role="button">Read the rules</a></p>
+  </div>
+
+  <div class="col-lg-4">
+    <h2>Sign up for updates</h2>
+
+<form role='form' action="http://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
+<div class='form-group'>
+<label class='' for="fieldName">Name</label>
+<input id="fieldName" name="cm-name" type="text" class='form-control' placeholder='Enter name'/>
+</div>
+<div class='form-group'>
+<label class='' for="fieldEmail">Email</label>
+<input id="fieldEmail" name="cm-ttlylhk-ttlylhk" class='form-control' type="email" required placeholder='Enter email'/>
+</div>
+<button type="submit" class='btn btn-success'>Get updates</button>
+<span class='help-block'>(We won't give your email address to anyone else)</span>
 </form>
 
-(We won't give your email address to anyone else)
 
-**Card Pirates is a fun thematic pirate card game for 2 - 4 players.** Players take the role of an old fashioned pirate ship on the high seas, searching for treasure, avoiding storms, attacking other ships and attempting to win the favour of the island governors.
-
-It can be learned very quickly, and is great fun to play. You can win if you're lucky, but there's a lot of strategy too. It takes about 20 - 40 minutes to play.
-
-The game is playable with **just one pack of playing cards and a token to represent each player.** We started with lego bricks and have moved on to little plastic ships from another game.
-
-Try it with anyone aged about 6 years and older. My 7 and 9 year olds love it.
-
-**[Read the rules](/rules)**
-
-Played the game? **[Share stories and feedback!](/stories)**
-
-### The story
-
-I've always loved creating games with lots of theme and a story to tell with a bare minimum of materials.
-
-I came up with the game one day whilst thinking about how to play test an online game I am currently prototyping.
-
-I tried it that afternoon with my kids and they loved it, suggesting lots of ideas for improvement - especially after my 9 year old son chased my ship through storm after storm until he'd extracted the last ounce of treasure from the hold!
-
-I'll be making more improvements as time goes on. The source code for this site is [available here](http://github.com/chrismdp/cardpirates) - do feel free to submit pull requests for modifications or improvements if that's your thing.
-
-If you play it, [let me know!](/stories)
+  </div>
+</div>

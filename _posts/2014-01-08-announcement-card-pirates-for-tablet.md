@@ -13,12 +13,17 @@ I've been looking for an excuse to work with Richard for ages, and I'm really ex
 
 You can log in to [our new twitter account](http://twitter.com/cardpirates) to get updates, or our [facebook page](https://www.facebook.com/cardpirates) - or you can keep coming back to this blog for more. Sign up to receive updates on the upcoming mobile/table app:
 
-<form action="http://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
-  <label for="fieldName">Name</label>
-  <input id="fieldName" name="cm-name" type="text" />
-  <label for="fieldEmail">Email</label>
-  <input id="fieldEmail" name="cm-ttlylhk-ttlylhk" type="email" required />
-  <button type="submit">Subscribe</button>
+<form class='form-inline' role='form' action="http://thinkcodelearn.createsend.com/t/r/s/ttlylhk/" method="post">
+  <div class='form-group'>
+    <label class='sr-only' for="fieldName">Name</label>
+    <input id="fieldName" name="cm-name" type="text" class='form-control' placeholder='Enter name'/>
+  </div>
+  <div class='form-group'>
+    <label class='sr-only' for="fieldEmail">Email</label>
+    <input id="fieldEmail" name="cm-ttlylhk-ttlylhk" class='form-control' type="email" required placeholder='Enter email'/>
+  </div>
+  <button type="submit" class='btn btn-success'>Get updates</button>
+  <span class='help-block'>(We won't give your email address to anyone else)</span>
 </form>
 
 Don't worry, we won't give your email address to anyone else. Looking forward to posting more information soon!

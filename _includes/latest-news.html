@@ -1,15 +1,12 @@
-<div class='ad' style='width: 182px; float: right'>
-  <ul class="posts">
-    <li><strong>Latest news</strong> (<a href='/blog'>more</a>)</li>
-    {% for post in site.posts limit:3 %}
-      <li>
-        <span>{{ post.date | date_to_string }}</span>
-        <br/>
+{% for post in site.posts limit:5 %}
+  <div class='media'>
+    <div class='media-body'>
+      <div class='media-heading'>
         <a href="{{ post.url }}">
           {{ post.title }}
         </a>
-        <br/>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+      </div>
+      <span class='text-muted'>{{ post.date | date_to_string }}</span>
+    </div>
+  </div>
+{% endfor %}

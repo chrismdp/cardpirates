@@ -1,70 +1,76 @@
 <!DOCTYPE html>
 <html xmlns:fb="http://ogp.me/ns/fb#">
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://cardpirates.com/atom.xml" rel="alternate" title="Card Pirates" type="application/atom+xml" />
 
-        <link href="http://cardpirates.com/atom.xml" rel="alternate" title="Card Pirates" type="application/atom+xml" />
+    <!-- Bootstrap3 -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="/css/main.css"/>
+  </head>
+  <body>
+    <div class="container">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+      <h3 class="text-muted">Card Pirates</h3>
+      <ul class='nav nav-pills'>
+        <li><a href="/">Home</a></li>
+        <li><a href="/blog">Blog</a></li>
+        <li><a href="/rules">Rules</a></li>
+      </ul>
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
-        <script type="text/javascript">
+      <br/>
 
-          var _gaq = _gaq || [];
-          _gaq.push(['_setAccount', 'UA-431118-18']);
-          _gaq.push(['_trackPageview']);
+      {{ content }}
 
-          (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-          })();
+    </div> <!-- /container -->
 
-        </script>
 
-      </head>
-      <body>
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="/">Card Pirates</a></h1>
-              <a class="extra" href="/">home</a>
-              <a class="extra" href="/rules">rules</a>
-              <a class="extra" href="/blog">blog</a>
-              <a class="extra" href="/stories">your stories</a>
-            </div>
-            {% include social.html %}
+    <!-- Site footer -->
+    <footer>
+      <p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="/assets/cc-license.png" /></a>
+      </p>
+      <p>
+        <br/>
+        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Card Pirates</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://cardpirates.com" property="cc:attributionName" rel="cc:attributionURL">Chris Parsons</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://cardpirates.com" rel="dct:source">http://cardpirates.com</a>.
+      </p>
+      <p>
+        Ship icons by <a href='http://icons.mysitemyway.com/gallery/post/matte-white-square-icons-transport-travel/'>Icons etc.</a>
+      </p>
+      <p>
+        <a href="https://plus.google.com/113378686356267914598" rel="publisher">Google+</a>
+      </p>
+      <p>
+        <a href="http://twitter.com/cardpirates/">twitter.com/cardpirates</a><br />
+        <a href="http://facebook.com/cardpirates/">facebook.com/cardpirates</a><br />
+        <a href="http://cardpirates.com/">cardpirates.com</a><br />
+      </p>
+    </footer>
 
-            <div class='content'>
-              {{ content }}
-            </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://code.jquery.com/jquery.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-431118-18']);
+      _gaq.push(['_trackPageview']);
 
-            <div class="footer">
-              <div class="contact">
-                <p>
-                  <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="/assets/cc-license.png" /></a>
-                  <br/>
-                  <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Card Pirates</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://chrismdp.com" property="cc:attributionName" rel="cc:attributionURL">Chris Parsons</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="http://cardpirates.com" rel="dct:source">http://cardpirates.com</a>.
-                </p>
-                <p>
-                  Ship icons by <a href='http://icons.mysitemyway.com/gallery/post/matte-white-square-icons-transport-travel/'>Icons etc.</a>
-                </p>
-                <p>
-                  <a href="https://plus.google.com/113378686356267914598" rel="publisher">Google+</a>
-                </p>
-                <p>
-                  <a href="http://twitter.com/chrismdp/">twitter.com/chrismdp</a><br />
-                  <a href="http://chrismdp.com/">chrismdp.com</a><br />
-                  Email me: <a href="mailto:chris@thinkcodelearn.com">chris@thinkcodelearn.com</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </div> <!-- /container -->
-      </body>
-    </html>
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+  </body>
+</html>
