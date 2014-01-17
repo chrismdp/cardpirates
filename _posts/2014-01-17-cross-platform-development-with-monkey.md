@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cross platform development with Monkey-X"
-date: 2014-01-17 21:00:00 +0000
+date: 2014-01-17 18:00:00 +0000
 tags: development
 author: Richard
 
