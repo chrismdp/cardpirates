@@ -13,10 +13,9 @@ title: Card Pirates
     </div>
   </div>
   <div class='col-md-7 screenshots hidden-xs'>
-    <div class='caption'>
-      (screenshots coming soon)
-    </div>
-    <img class='ipad' src='/assets/ipad.png'/>
+    <a href='/game'>
+      <img class='ipad' src='/assets/ipad.png'/>
+    </a>
   </div>
 </div>
 
