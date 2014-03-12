@@ -86,7 +86,7 @@
           if (position.left > width) {
             element.css({left:-element.width(), top: Math.random() * 400});
           } else {
-            element.animate({left: position.left + (40 * (10-i))}, 10000);
+            element.animate({left: position.left + (20 * (10-i)/2)}, 10000);
           }
         }
         setTimeout(moveClouds, 10000);
