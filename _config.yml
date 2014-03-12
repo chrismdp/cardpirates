@@ -3,3 +3,4 @@ markdown: kramdown
 permalink: /blog/:title/
 timezone: Europe/London
 future: false
+url: 'http://cardpirates.com'

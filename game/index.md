@@ -17,7 +17,7 @@ title: "HTML5 Development version of Card Pirates"
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'cardpirates'; // required: replace example with your forum shortname
-    var disqus_url = 'http://cardpirates.com';
+    var disqus_url = '{{ site.url }}';
 
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
