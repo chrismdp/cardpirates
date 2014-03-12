@@ -7,14 +7,15 @@ title: Card Pirates
 <div class='row'>
   <div class='col-md-5'>
     <div class="jumbotron">
+      <img class='visible-xs visible-sm logo' src='/assets/site/logo.png'/>
       <h2>Avast there!</h2>
       <p class="lead">Card Pirates is a fun thematic strategy card game for 2 - 4 players. Out soon for iPhone/iPad.</p>
       <p><a class="btn btn-lg btn-success" href="/rules" role="button">Read the tabletop rules</a></p>
     </div>
   </div>
-  <div class='col-md-7 screenshots hidden-xs'>
+  <div class='col-md-7 screenshots hidden-sm hidden-xs'>
     <a href='/game'>
-      <img class='ipad' src='/assets/ipad.png'/>
+      <img class='ipad' src='/assets/site/ipad.png'/>
     </a>
   </div>
 </div>

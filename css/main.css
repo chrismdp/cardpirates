@@ -1,3 +1,51 @@
+body {
+  color: white;
+  background: #6faeeb;
+}
+
+body.index {
+  background: #158077;
+}
+
+body .parallax {
+  display: none;
+}
+
+.nav {
+  margin-top: 10px;
+}
+
+body.index .parallax {
+  display: block;
+  position: absolute;
+  height: 880px;
+  width: 100%;
+  background: #ade9fe url(/assets/site/sky.png) repeat-x;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body.index .parallax img {
+  position: absolute;
+}
+
+
+body.index .parallax .sea {
+  width: 100%;
+  height: 286px;
+  position: absolute;
+  background: #ade9fe url(/assets/site/sea.png) repeat-x;
+}
+
+body.index .parallax .seafloor {
+  width: 100%;
+  height: 286px;
+  position: absolute;
+  background: url(/assets/site/seafloor.png) repeat-x;
+}
+
+
+
 footer {
   color: #ddd;
   background: #111;
@@ -6,7 +54,14 @@ footer {
 }
 
 .jumbotron {
-  background: url(/assets/swatch-black25.png);
+  background: transparent;
+  color: #333;
+  height: 466px;
+}
+
+.jumbotron img.logo {
+  width: 40%;
+  margin: 0 auto;
 }
 
 .post a, body.rules ul a, body.rules p a {
@@ -19,11 +74,6 @@ a {
 
 .text-muted, .help-block {
   color: #eee;
-}
-
-body {
-  color: white;
-  background: #6faeeb;
 }
 
 .screenshots {
@@ -51,27 +101,5 @@ canvas.focus {
     margin-top: -10px;
     width: 100%;
     display: block;
-  }
-
-  .jumbotron {
-    background: transparent;
-  }
 }
-
-body.index {
-  background: -moz-linear-gradient(top,  #4ca5ff 1%, #cec8b5 100%); /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#4ca5ff), color-stop(100%,#cec8b5)); /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(top,  #4ca5ff 1%,#cec8b5 100%); /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(top,  #4ca5ff 1%,#cec8b5 100%); /* Opera 11.10+ */
-  background: -ms-linear-gradient(top,  #4ca5ff 1%,#cec8b5 100%); /* IE10+ */
-  background: linear-gradient(to bottom,  #4ca5ff 1%,#cec8b5 100%); /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4ca5ff', endColorstr='#cec8b5',GradientType=0 ); /* IE6-9 */
 }
-
-
-@media (min-width: 1200px) {
-  img.ipad {
-    margin-top: -50px;
-  }
-}
-

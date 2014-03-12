@@ -18,9 +18,17 @@
     <link rel="stylesheet" href="/css/main.css"/>
   </head>
   <body class='{{ page.bodyclass }}'>
+    <div class='parallax'>
+      <div class='sea' style='top:600px;'></div>
+      <div class='seafloor' style='top:605px; left: 137px;' data-xrange="20" data-yrange="0"></div>
+      <!--<img src="/assets/site/seafloor.png" style='top:605px; left: 137px;' data-xrange="20" data-yrange="0">-->
+      <img src="/assets/site/island.png" style='top:486px; left: 400px;' data-xrange="20" data-yrange="0">
+      <img src="/assets/site/schooloffish.png" style='top: 630px; left: 150px' data-xrange="50" data-yrange="20" data-invert='true'>
+      <img src="/assets/site/orangefish1.png" style='top: 650px; left: 440px' data-xrange="60" data-yrange="10">
+      <img src="/assets/site/orangefish2.png" style='top: 667px; left: 448px' data-xrange="80" data-yrange="0">
+    </div>
     <div class="container">
 
-      <h3><a href='/'>Card Pirates</a></h3>
       <ul class='nav nav-pills'>
         <li><a href="/">Home</a></li>
         <li><a href="/blog">Blog</a></li>
@@ -59,6 +67,33 @@
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
+    <script type="text/javascript" src="/js/plax.js"></script>
+    <script type="text/javascript">
+      $('body.index .parallax *').plaxify();
+      $.plax.enable();
+
+      // clouds
+      var width = $(window).width();
+      for(var i=1; i<=9; i++) {
+        var t = Math.random() * 500;
+        var l = Math.random() * width;
+        $('.parallax').append("<img class='cloud"+i+"' src='/assets/site/cloud"+i+".png' style='top: "+t+"px; left: "+l+"px;'/>");
+      }
+      function moveClouds() {
+        var width = $(window).width();
+        for(var i=1; i<=9; i++) {
+          var element = $('.cloud'+i);
+          var position = element.offset();
+          if (position.left > width) {
+            element.css({left:-100});
+          } else {
+            element.animate({left: position.left + (40 * (10-i))}, 10000);
+          }
+        }
+        setTimeout(moveClouds, 10000);
+      }
+      moveClouds();
+    </script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
     <script type="text/javascript">
       var _gaq = _gaq || [];
