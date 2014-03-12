@@ -17,6 +17,7 @@ body .parallax {
 
 body.index .parallax {
   display: block;
+  z-index: -1;
   position: absolute;
   height: 900px;
   width: 100%;
