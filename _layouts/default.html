@@ -74,7 +74,7 @@
       // clouds
       var width = $(window).width();
       for(var i=1; i<=9; i++) {
-        var t = Math.random() * 500;
+        var t = Math.random() * 400;
         var l = Math.random() * width;
         $('.parallax').append("<img class='cloud"+i+"' src='/assets/site/cloud"+i+".png' style='top: "+t+"px; left: "+l+"px;'/>");
       }
@@ -84,7 +84,7 @@
           var element = $('.cloud'+i);
           var position = element.offset();
           if (position.left > width) {
-            element.css({left:-100});
+            element.css({left:-element.width(), top: Math.random() * 400});
           } else {
             element.animate({left: position.left + (40 * (10-i))}, 10000);
           }
