@@ -18,4 +18,4 @@ After some thought and a few more playtests, I've changed the drifting rules:
 
 - I've also tweaked the scoring: Aces are now worth 4, Kings 3, Queens 2 and Jacks 1. This makes it worth exchanging Queens for Jacks and gives you a few more options in the end game. It's also easier to remember.
 
-[Let me know](/stories) what you think of the new rules!
+Let me know what you think of the new rules!

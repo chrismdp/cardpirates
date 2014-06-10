@@ -12,7 +12,7 @@ title: "Rules"
 
 {% include ad-skyscraper.html %}
 
-If you need any clarifications, [get in touch!](/stories)
+If you need any clarifications, get in touch!
 
 * This will become a table of contents
 {:toc}
@@ -129,7 +129,7 @@ Thematically, these exchanges could represent the following plot lines:
 - *Jack replaces Queen:* Stowaway: Tired of boring island life, the Governor's daughter runs away to join your crew. What will become of her?
 
 
-Alternatively, you can have fun making up your own stories! [Let us know](/stories) if you come up with any good ones.
+Alternatively, you can have fun making up your own stories! Let us know if you come up with any good ones.
 
 ## Searching for treasure example
 

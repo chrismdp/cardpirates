@@ -18,4 +18,4 @@ This can get extremely tricky. If a particular island is surrounded by a sea of 
 
 This variant is probably only worth trying when you've played a few times. It is trickier and more strategic, and can be quite frustrating, and results in lower scoring games. You might want to play with [Simple Politics](/rules#variant-simple-politics) to keep the game length down.
 
-See how it affects your games! Is it frustrating, or do you prefer the extra strategic choices? [Let us know!](/stories)
+See how it affects your games! Is it frustrating, or do you prefer the extra strategic choices? Let us know!
