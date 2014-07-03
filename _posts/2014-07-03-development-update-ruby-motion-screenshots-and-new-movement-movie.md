@@ -17,6 +17,4 @@ Here are some screenshost of the board and some of the panels:
 ![map-board](/assets/blog/map-board.png)
 ![sail-ho](/assets/blog/sail-ho.png)
 
-![new movement](/assets/blog/new-movement.gif)
-
 What do you think?

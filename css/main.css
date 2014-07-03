@@ -65,6 +65,10 @@ footer {
   margin: 0 auto;
 }
 
+img.logo {
+  width: 80%;
+}
+
 .post a, body.rules ul a, body.rules p a {
   text-decoration: underline;
 }
@@ -81,10 +85,6 @@ a {
   position: relative;
 }
 
-img.ipad {
-  margin-left: -40px;
-}
-
 canvas.focus {
   outline: none;
 }
@@ -96,11 +96,3 @@ canvas.focus {
   opacity: 0.75;
 }
 
-@media (min-width: 992px) {
-  img.ipad {
-    margin-left: 0px;
-    margin-top: -10px;
-    width: 100%;
-    display: block;
-}
-}

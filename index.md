@@ -22,10 +22,8 @@ title: Card Pirates
       </form>
     </div>
   </div>
-  <div class='col-md-7 screenshots hidden-sm hidden-xs'>
-    <a href='/game'>
-      <img class='ipad' src='/assets/site/ipad.png'/>
-    </a>
+  <div class='hidden-sm hidden-xs col-md-5'>
+    <img class='logo' src='/assets/site/logo.png'/>
   </div>
 </div>
 
