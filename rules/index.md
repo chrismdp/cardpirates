@@ -6,7 +6,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.5.0*
+*version 1.6.0*
 
 {% include social.html %}
 
@@ -145,11 +145,11 @@ Alternatively, you can have fun making up your own stories! Let us know if you c
 
 To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved. If you sail to a square with more than one ship, only one attack takes place: the attacker chooses which ship to attack.
 
-To attack, pick a crew card from your hand and place it face down in front of you. The defender does the same, and both cards are revealed together. The player with the highest card is the winner of the attack.
+To attack, pick up to three crew cards from your hand and place them face down in front of you. You must declare how many cards you are using to attack, but you should not tell the defender which cards you are using. The defender picks up to three cards to defend with and places them face down in front of them. They can choose to play more cards than the attacker should they wish. Both sets of cards are revealed together. The player with the highest total crew value is the winner of the attack.
 
-If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins. You cannot attack if you don't have a crew card.
+If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins. You must choose to place a card if you have one to place. You cannot attack if you don't have a crew card.
 
-The cards used in the attack and defence are lost as casualties. They are placed face up on the island which matches their suits underneath the face up island card. The winner then gets to select up to two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
+The cards used in the attack and defence are lost as casualties. They are placed face up on the islands which match their suits underneath the face up island card. The winner then gets to pick two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
 
 If the loser has only one card, the attacker only takes one: if the loser's hand is empty, the attacker does not get to take cards. The winner must still give the loser a card, no matter how many cards they managed to take.
 
@@ -163,7 +163,7 @@ If there is a draw, first the attacker selects two cards from the defenders hand
 
 ![combat2](../assets/combat2.png)
 
-*The white player chooses a 6 and the black player chooses an 8, so the black ship is the winner. The black player chooses two cards at random from the white player's remaining hand of 2, and luckily chooses the Ace as one of them: they have stolen the treasure from the white ship!*
+*The white player chooses one card (a 6) and the black player chooses an 8, so the black ship is the winner. The black player chooses two cards at random from the white player's remaining hand of 2, and luckily chooses the Ace as one of them: they have stolen the treasure from the white ship!*
 
 ![combat3](../assets/combat3.png)
 
