@@ -209,7 +209,7 @@ At the beginning of the game, before any treacherous sea changes, each player ta
 
 ![setup-random-islands](../assets/random-island-placement.png)
 
-This variant can cause the length of the game to fluctuate and introduces more luck into the game. It can work best with combined with Treacherous Seas, Advanced Sailing, or Heightened Intrigue (yet to be released).
+This variant can cause the length of the game to fluctuate and introduces more luck into the game. It can work best with combined with Treacherous Seas or Advanced Sailing, and works best without the Simple Politics variant.
 
 ## Variant: Simple politics
 
