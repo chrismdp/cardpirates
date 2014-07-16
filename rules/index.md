@@ -6,7 +6,7 @@ title: "Rules"
 
 <h2>{{ page.title }}</h2>
 
-*version 1.6.0*
+*version 2.0*
 
 {% include social.html %}
 
@@ -23,15 +23,17 @@ All you need is a standard deck of cards, and a makeshift counter of some sort f
 
 Find a space on the ground or a table. Take your pack of cards, remove the Aces and place them to one side.
 
-Lay out 36 cards face down in a 6 x 6 rectangle. This rectangle represents *the high seas*. There are four *islands* on the sea, represented at by the four Aces. Place each of these face up on each corner of the rectangle, one in from the edge, like this:
+Lay out 25 cards face down in a 5 x 5 rectangle. This rectangle represents *the high seas*. There are four *islands* on the sea, represented at by the four Aces. At each corner place a face up Ace instead of a face down card, like this:
 
 ![setup](../assets/setup.png)
 
 These upturned Aces will be replaced by other face cards during the game: cards placed on the map face-up in this way are collectively known as *island cards.*
 
-Place each player's counter on one island on the sea - this represents their *ship*. In two player games put the players on diagonally opposite islands.
+Place each player's counter on an island - this represents their *ship*. In two player games put the players on diagonally opposite islands.
 
-Deal the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards. In [solo play](#variant-solo-play) the player will have all 12 extra cards.
+Deal 12 of the remaining cards to the players. In 2 player games each player should have 6 cards, in 3 player games each should have 4 cards and in 4 player games each will have 3 cards. In [solo play](#variant-solo-play) the player will have all 12 cards.
+
+Place the remaining 15 cards face down beside the board - this is the *card stack.*
 
 ## The cards
 
@@ -45,11 +47,13 @@ The player who scores the most points in hand wins at the game end. Points are g
 
 # Starting the game
 
-Decide who starts by mutual consent. Play continues clockwise in turns. During a turn a player may choose to either *sail*, or *drift* if they have three cards or less.
+Decide who starts by mutual consent. Play continues clockwise in turns.
+
+Each turn, a player takes a card from the top of the card stack and adds it to their hand. During a turn a player may choose to either *sail*, or *drift* if they have four cards or less in their hand.
 
 # Sailing
 
-To sail your ship, choose any crew card (number card) from your hand. Place the card face up underneath the island card.
+To sail your ship, choose any crew card (number card) from your hand. If you are on a sea space, place the card face up underneath your counter. If you are on an island card, *add the card to the bottom of the card stack.*
 
 This gives you as many *sailing points* to sail that turn as the number on the card. You don't have to use all your points, but any extra points are wasted.
 
@@ -59,13 +63,13 @@ You cannot sail into the same square twice in the same turn, and you cannot fini
 
 In subsequent turns, in order to sail from any sea or island square, follow the same process: place the chosen crew card face up on the square your ship is on before moving, under any island card.
 
-If you cannot place a crew card, yet you have more than three cards in your hand, you must bury treasure (see [Burying treasure](#burying-treasure) below) by placing cards face down on your square until you only have three cards so that you are able to drift.
+If you cannot place a crew card, yet you have more than four cards in your hand, you must bury treasure (see [Burying treasure](#burying-treasure) below) by placing cards face down on your square until you only have four cards so that you are able to drift.
 
 ## "Heave to!"
 
 When coming to rest on a sea square, pick up any cards on that square and add them to your hand.
 
-If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see [Interacting with Islands](#interacting-with-islands)) pick up any cards underneath the upturned face card, but not the face card itself.
+If you choose to sail onto an island space, you must end your turn there. After resolving any exchanges (see [Interacting with Islands](#interacting-with-islands)) pick up any buried cards underneath the upturned face card, but not the face card itself.
 
 If you have landed on another player ship on a sea space, resolve the attack (see [Attacking other ships](#attacking-other-ships).) You must end your turn when moving onto a space with another ship, you cannot sail past them.
 
@@ -73,7 +77,7 @@ After any attack is resolved, your turn is over, and play passes to the left.
 
 ## The '2' crew cards
 
-Note that the '2' number cards don't give you enough movement points to move, and are therefore useless for sailing. These are the dead weight in your crew: landlubbers who can't sail for toffee! They're not entirely useless though: you can use them in combat (in which case you're very likely to lose), place them down in a storm, or dump them on another player when winning a battle.
+Note that the '2' number cards don't give you enough movement points to move, and are therefore useless for sailing. These are the dead weight in your crew: landlubbers who can't sail for toffee! They're not entirely useless though: you can use them in combat, place them down in a storm, or dump them on another player when winning a battle.
 
 ## Sailing example
 
@@ -87,13 +91,11 @@ Note that the '2' number cards don't give you enough movement points to move, an
 
 ## Drifting
 
-If you have three cards or less, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above.
-
-You can only drift in a straight line: you cannot drift diagonally.
+If you have four cards or less, you have the option of drifting one square without having to place a card. Resolve the rest of your turn in the same way as for *sailing* above. You can drift both in a straight line or diagonally.
 
 You are allowed to drift into a storm space or an island square if you choose - interact with those squares normally as if you were sailing into them. Likewise, you can drift to a square with another player ship: in this case, combat is resolved normally (this is effectively 'playing dead' and allowing another ship a target they can't refuse.)
 
-If you cannot sail due to the lack of a suitable crew card, yet you have more than three cards in your hand, you must bury treasure (see [Burying treasure](#burying-treasure) below) until you only have three cards, and then drift as above.
+If you cannot sail due to the lack of a suitable crew card, yet you have more than four cards in your hand, you must bury treasure (see [Burying treasure](#burying-treasure) below) until you only have four cards, and then drift as above.
 
 If you cannot sail or drift for whatever reason, you forfeit your turn.
 
@@ -103,7 +105,7 @@ Before placing a card face up to sail from an island or sea space, you have the 
 
 You can use this to bury treasure to retrieve later, or leave useless cards as a decoy!
 
-If burying cards reduces your hand to three cards or less, you are able to drift from that square in the same turn without placing further sailing cards.
+If burying cards reduces your hand to four cards or less, you are able to drift from that square in the same turn without placing further sailing cards.
 
 ## Storms
 
@@ -143,13 +145,15 @@ Alternatively, you can have fun making up your own stories! Let us know if you c
 
 # Attacking other ships
 
-To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved. If you sail to a square with more than one ship, only one attack takes place: the attacker chooses which ship to attack.
+To attack another ship, sail onto the sea square it occupies. Ships on islands are immune from attack - you can sail onto the same island square, but the attack is not resolved.
+
+You may sail to an island square containing any number of ships, but you cannot sail onto a sea square with two ships already on it.
 
 To attack, pick up to three crew cards from your hand and place them face down in front of you. You must declare how many cards you are using to attack, but you should not tell the defender which cards you are using. The defender picks up to three cards to defend with and places them face down in front of them. They can choose to play more cards than the attacker should they wish. Both sets of cards are revealed together. The player with the highest total crew value is the winner of the attack.
 
 If you don't have a crew card to place as a defender, you can choose not to place a card. In this case the attacker automatically wins. You must choose to place a card if you have one to place. You cannot attack if you don't have a crew card.
 
-The cards used in the attack and defence are lost as casualties. They are placed face up on the islands which match their suits underneath the face up island card. The winner then gets to pick two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
+The cards used in the attack and defence are lost as casualties. They are shuffled and added to the bottom of the card stack. The winner then gets to pick two cards at random from the loser's hand and places them in his own hand. The winner then gives the loser any one card of their choosing.
 
 If the loser has only one card, the attacker only takes one: if the loser's hand is empty, the attacker does not get to take cards. The winner must still give the loser a card, no matter how many cards they managed to take.
 
@@ -169,11 +173,11 @@ If there is a draw, first the attacker selects two cards from the defenders hand
 
 *The black player now gives one card of their choice to the white player: they choose the 2 of diamonds.*
 
-*The crew cards used in the battle are lost as casualties. The 6 of diamonds is sent to Diamond Island due west of the battle, and the 8 of hearts is sent to Heart Island elsewhere on the board. They will be recruited as fresh crew next time another ship lands on the island.*
+*The crew cards used in the battle are lost as casualties. The 6 of diamonds and the 8 of hearts are shuffled and sent to the bottom of the card stack, to be picked up in a subsequent turn by another player.*
 
 # Game end
 
-The game ends when all treasure has been reclaimed and all the island face cards have been replaced by Jacks, or at any point there are no facedown cards on the board.
+The game ends when all treasure has been reclaimed and all the island face cards have been replaced by Jacks, or immediately before any turn in which a player cannot draw a card from the card stack.
 
 As soon as this happens, all the hands are shown face up and the scores are counted.
 
@@ -205,7 +209,7 @@ If there are only two players, each player takes two cards to leave four open ar
 
 ## Variant: Random Island Placement
 
-At the beginning of the game, before any treacherous sea changes, each player takes it in turns to take a piece and place an island on any square they like with their token on it. This must happen *before* they look at the cards they've gained.
+At the beginning of the game, before any treacherous sea changes, each player takes it in turns to take a piece and optionally swap an island with a sea card anywhere they like, placing their their token on it. This must happen *before* they look at the cards they've gained.
 
 ![setup-random-islands](../assets/random-island-placement.png)
 
@@ -219,7 +223,7 @@ This makes for a much shorter game, especially with fewer players, and therefore
 
 ## Variant: Solo play
 
-You get all 12 of the extra cards at the beginning of the game, but each time you sail or drift you must discard an extra card from your hand. The discarded card is put to one side, plays no further part in the game, and is not counted for scoring.
+You get all 12 of the dealt cards at the beginning of the game, but each time you sail or drift you must discard an extra card from your hand. The discarded card is put to one side, plays no further part in the game, and is not counted for scoring.
 
 The game is over as normal, or when you can no longer move or wish to move. You then count up your score to try and beat your record!
 
