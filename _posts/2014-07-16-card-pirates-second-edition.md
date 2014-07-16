@@ -17,11 +17,9 @@ As I've been playing and tweaking it, a number of issues have surfaced, particul
 * Hands were too easy to grow by jumping on an island after a big combat. All hands should grow as far as possible uniformly and by choice.
 * The game could be over very unexpectedly, without much interaction between the players.
 
-In order to fix this, a few major and related changes were needed, which now forms the 2nd edition of the game. The rule changes are detailed below, and the [rules page](/rules) has been updated to reflect these changes.
+In order to fix this, a few major and related changes were needed, which now forms the 2nd edition of the game. The rule changes are detailed below, and the [rules page](/rules) has been updated to reflect these changes. The coming iOS version of the game will use the second edition of the rules - we are playtesting them in earnest now.
 
 Card Pirates is now easier to play and more exciting. It's a more predictable length, it's more strategic and it's definitely more fun. See what you think!
-
-The coming iOS version of the game will use the second edition of the rules - we are playtesting them in earnest now.
 
 <br style='clear:both; margin-top: 15px'/>
 
