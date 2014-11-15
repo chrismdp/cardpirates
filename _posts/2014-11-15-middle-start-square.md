@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "New rules trial 1/2: middle start square"
+title:  "New rules trial: middle start square"
 date: 2014-11-15 22:27:57 +0000
 tags: news development rules
 author: Chris
 
 ---
 
-I've been playing some same with my (now) 8yo daughter, and trialling some extra rules which work particularly well for Card Pirates 2.0. Here's the first:
+I've been playing some games with my (now) 8yo daughter, and trialling some extra rules which work particularly well for Card Pirates 2.0. Here's the first:
 
 ## Middle start square
 
